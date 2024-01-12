@@ -3,6 +3,7 @@
 ## ADVAPI32
 
 * [OpenProcessToken](README.md)
+* [OpenThreadToken](advapi32/openthreadtoken.md)
 
 ## KERNEL32
 
