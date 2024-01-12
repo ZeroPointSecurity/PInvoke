@@ -5,8 +5,9 @@
 * [CloseHandle](README.md)
 * [OpenProcess](<README (1).md>)
 * [VirtualAllocEx](kernel32/virtualallocex.md)
-* [WriteProcessMemory](kernel32/writeprocessmemory.md)
 * [VirtualProtectEx](kernel32/virtualprotectex.md)
+* [WriteProcessMemory](kernel32/writeprocessmemory.md)
+* [CreateRemoteThread](kernel32/createremotethread.md)
 
 ## FOUNDATION
 
@@ -15,6 +16,7 @@
 
 ## THREADING
 
+* [LPTHREAD\_START\_ROUTINE](threading/lpthread\_start\_routine.md)
 * [PROCESS\_ACCESS\_RIGHTS](threading/process\_access\_rights.md)
 
 ## MEMORY
