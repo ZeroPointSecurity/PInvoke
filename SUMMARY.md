@@ -6,6 +6,7 @@
 * [OpenProcess](<README (1).md>)
 * [VirtualAllocEx](kernel32/virtualallocex.md)
 * [WriteProcessMemory](kernel32/writeprocessmemory.md)
+* [VirtualProtectEx](kernel32/virtualprotectex.md)
 
 ## FOUNDATION
 
