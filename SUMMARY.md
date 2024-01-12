@@ -6,7 +6,7 @@
 
 ## FOUNDATION
 
-* [Handle](foundation/handle.md)
+* [HANDLE](foundation/handle.md)
 
 ## THREADING
 
