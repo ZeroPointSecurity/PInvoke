@@ -7,3 +7,7 @@
 ## FOUNDATION
 
 * [Handle](foundation/handle.md)
+
+## THREADING
+
+* [PROCESS\_ACCESS\_RIGHTS](threading/process\_access\_rights.md)
