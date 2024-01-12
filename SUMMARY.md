@@ -3,6 +3,7 @@
 ## KERNEL32
 
 * [OpenProcess](README.md)
+* [CloseHandle](kernel32/closehandle.md)
 
 ## FOUNDATION
 
