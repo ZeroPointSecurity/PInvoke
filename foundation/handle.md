@@ -2,25 +2,25 @@
 
 ```csharp
 [DebuggerDisplay("{Value}")]
-public readonly struct Handle(IntPtr value) : IEquatable<Handle>
+public readonly struct HANDLE(IntPtr value) : IEquatable<HANDLE>
 {
     public readonly IntPtr Value = value;
 
-    public static Handle Null => default;
+    public static HANDLE Null => default;
 
     public bool IsNull => Value == default;
 
-    public static implicit operator IntPtr(Handle value) => value.Value;
+    public static implicit operator IntPtr(HANDLE value) => value.Value;
 
-    public static explicit operator Handle(IntPtr value) => new(value);
+    public static explicit operator HANDLE(IntPtr value) => new(value);
 
-    public static bool operator == (Handle left, Handle right) => left.Value == right.Value;
+    public static bool operator ==(HANDLE left, HANDLE right) => left.Value == right.Value;
 
-    public static bool operator != (Handle left, Handle right) => !(left == right);
+    public static bool operator !=(HANDLE left, HANDLE right) => !(left == right);
 
-    public bool Equals(Handle other) => Value == other.Value;
+    public bool Equals(HANDLE other) => Value == other.Value;
 
-    public override bool Equals(object obj) => obj is Handle other && Equals(other);
+    public override bool Equals(object obj) => obj is HANDLE other && Equals(other);
 
     public override int GetHashCode() => Value.GetHashCode();
 
