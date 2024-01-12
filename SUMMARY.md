@@ -5,6 +5,7 @@
 * [CloseHandle](README.md)
 * [OpenProcess](<README (1).md>)
 * [VirtualAllocEx](kernel32/virtualallocex.md)
+* [WriteProcessMemory](kernel32/writeprocessmemory.md)
 
 ## FOUNDATION
 
