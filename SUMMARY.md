@@ -7,6 +7,7 @@
 ## FOUNDATION
 
 * [HANDLE](foundation/handle.md)
+* [BOOL](foundation/bool.md)
 
 ## THREADING
 
