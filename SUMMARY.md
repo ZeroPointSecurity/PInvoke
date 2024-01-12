@@ -1,10 +1,14 @@
 # Table of contents
 
+## ADVAPI32
+
+* [OpenProcessToken](README.md)
+
 ## KERNEL32
 
-* [CloseHandle](README.md)
+* [CloseHandle](<README (1).md>)
 * [CreateRemoteThread](kernel32/createremotethread.md)
-* [OpenProcess](<README (1).md>)
+* [OpenProcess](<README (1) (1).md>)
 * [QueueUserAPC](kernel32/queueuserapc.md)
 * [VirtualAllocEx](kernel32/virtualallocex.md)
 * [VirtualProtectEx](kernel32/virtualprotectex.md)
@@ -25,3 +29,7 @@
 
 * [PAGE\_PROTECTION\_FLAGS](memory/page\_protection\_flags.md)
 * [VIRTUAL\_ALLOCATION\_TYPE](memory/virtual\_allocation\_type.md)
+
+## SECURITY
+
+* [TOKEN\_ACCESS\_MASK](security/token\_access\_mask.md)
