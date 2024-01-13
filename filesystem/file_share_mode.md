@@ -1,0 +1,12 @@
+# FILE\_SHARE\_MODE
+
+```csharp
+[Flags]
+public enum FILE_SHARE_MODE : uint
+{
+    FILE_SHARE_NONE = 0x00000000,
+    FILE_SHARE_DELETE = 0x00000004,
+    FILE_SHARE_READ = 0x00000001,
+    FILE_SHARE_WRITE = 0x00000002,
+}
+```

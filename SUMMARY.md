@@ -43,6 +43,8 @@
 * [ConvertThreadToFiber](kernel32/convertthreadtofiber.md)
 * [ConvertFiberToThread](kernel32/convertfibertothread.md)
 * [CreateMailslot](kernel32/createmailslot.md)
+* [DeviceIoControl](kernel32/deviceiocontrol.md)
+* [CreateFile](kernel32/createfile.md)
 
 ## FOUNDATION
 
@@ -87,6 +89,8 @@
 ## FILESYSTEM
 
 * [FILE\_FLAGS\_AND\_ATTRIBUTES](filesystem/file\_flags\_and\_attributes.md)
+* [FILE\_SHARE\_MODE](filesystem/file\_share\_mode.md)
+* [FILE\_CREATION\_DISPOSITION](filesystem/file\_creation\_disposition.md)
 
 ## PIPES
 
