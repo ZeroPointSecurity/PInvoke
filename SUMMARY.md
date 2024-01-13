@@ -61,6 +61,7 @@
 * [FreeLibrary](kernel32/freelibrary.md)
 * [LoadLibrary](kernel32/loadlibrary.md)
 * [LoadLibraryEx](kernel32/loadlibraryex.md)
+* [VirtualFree](kernel32/virtualfree.md)
 
 ## FOUNDATION
 
@@ -94,6 +95,7 @@
 
 * [PAGE\_PROTECTION\_FLAGS](memory/page\_protection\_flags.md)
 * [VIRTUAL\_ALLOCATION\_TYPE](memory/virtual\_allocation\_type.md)
+* [VIRTUAL\_FREE\_TYPE](memory/virtual\_free\_type.md)
 
 ## SECURITY
 
