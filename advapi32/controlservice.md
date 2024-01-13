@@ -8,3 +8,5 @@ public static extern unsafe BOOL ControlService(
     uint dwControl,
     SERVICE_STATUS* lpServiceStatus);
 ```
+
+[service\_status.md](../services/service\_status.md "mention")

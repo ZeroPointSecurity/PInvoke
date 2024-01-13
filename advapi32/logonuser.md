@@ -11,3 +11,7 @@ public static extern unsafe BOOL LogonUser(
     LOGON32_PROVIDER dwLogonProvider,
     HANDLE* phToken);
 ```
+
+[logon32\_logon.md](../security/logon32\_logon.md "mention")
+
+[logon32\_provider.md](../security/logon32\_provider.md "mention")

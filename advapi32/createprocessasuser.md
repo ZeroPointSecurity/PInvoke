@@ -16,3 +16,9 @@ public static extern unsafe BOOL CreateProcessAsUser(
     STARTUPINFOW* lpStartupInfo,
     PROCESS_INFORMATION* lpProcessInformation);
 ```
+
+[process\_creation\_flags.md](../threading/process\_creation\_flags.md "mention")
+
+[startupinfow.md](../threading/startupinfow.md "mention")
+
+[process\_information.md](../threading/process\_information.md "mention")

@@ -8,3 +8,5 @@ public static extern unsafe BOOL OpenProcessToken(
     TOKEN_ACCESS_MASK DesiredAccess,
     HANDLE* TokenHandle);
 ```
+
+[token\_access\_mask.md](../security/token\_access\_mask.md "mention")

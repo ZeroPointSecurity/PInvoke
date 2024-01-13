@@ -9,3 +9,5 @@ public static extern unsafe BOOL OpenThreadToken(
     BOOL OpenAsSelf,
     HANDLE* TokenHandle);
 ```
+
+[token\_access\_mask.md](../security/token\_access\_mask.md "mention")

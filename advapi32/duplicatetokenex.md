@@ -11,3 +11,9 @@ public static extern unsafe BOOL DuplicateTokenEx(
     TOKEN_TYPE TokenType,
     HANDLE* phNewToken);
 ```
+
+[token\_access\_mask.md](../security/token\_access\_mask.md "mention")
+
+[security\_impersonation\_level.md](../security/security\_impersonation\_level.md "mention")
+
+[token\_type.md](../security/token\_type.md "mention")

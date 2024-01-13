@@ -10,3 +10,5 @@ public static extern unsafe BOOL GetTokenInformation(
     uint TokenInformationLength,
     uint* ReturnLength);
 ```
+
+[token\_information\_class.md](../security/token\_information\_class.md "mention")

@@ -9,3 +9,5 @@ public static extern unsafe BOOL SetTokenInformation(
     void* TokenInformation,
     uint TokenInformationLength);
 ```
+
+[token\_information\_class.md](../security/token\_information\_class.md "mention")

@@ -11,3 +11,5 @@ public static extern unsafe BOOL AdjustTokenPrivileges(
     [Optional] TOKEN_PRIVILEGES* PreviousState,
     [Optional] uint* ReturnLength);
 ```
+
+[token\_privileges.md](../security/token\_privileges.md "mention")

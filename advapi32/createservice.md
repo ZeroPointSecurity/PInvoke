@@ -18,3 +18,9 @@ public static extern unsafe SC_HANDLE CreateService(
     PCWSTR lpServiceStartName,
     PCWSTR lpPassword);
 ```
+
+[enum\_service\_type.md](../services/enum\_service\_type.md "mention")
+
+[service\_start\_type.md](../services/service\_start\_type.md "mention")
+
+[service\_error.md](../services/service\_error.md "mention")
