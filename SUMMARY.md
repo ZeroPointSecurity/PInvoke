@@ -20,12 +20,16 @@
 * [VirtualAllocEx](kernel32/virtualallocex.md)
 * [VirtualProtectEx](kernel32/virtualprotectex.md)
 * [WriteProcessMemory](kernel32/writeprocessmemory.md)
+* [PeekNamedPipe](kernel32/peeknamedpipe.md)
+* [CreatePipe](kernel32/createpipe.md)
+* [CreateNamedPipe](kernel32/createnamedpipe.md)
 
 ## FOUNDATION
 
 * [BOOL](foundation/bool.md)
 * [HANDLE](foundation/handle.md)
 * [PAPCFUNC](foundation/papcfunc.md)
+* [PCWSTR](foundation/pcwstr.md)
 
 ## THREADING
 
@@ -43,3 +47,11 @@
 * [TOKEN\_ACCESS\_MASK](security/token\_access\_mask.md)
 * [TOKEN\_TYPE](security/token\_type.md)
 * [SECURITY\_IMPERSONATION\_LEVEL](security/security\_impersonation\_level.md)
+
+## FILESYSTEM
+
+* [FILE\_FLAGS\_AND\_ATTRIBUTES](filesystem/file\_flags\_and\_attributes.md)
+
+## PIPES
+
+* [NAMED\_PIPE\_MODE](pipes/named\_pipe\_mode.md)
