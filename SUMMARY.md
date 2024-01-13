@@ -45,6 +45,7 @@
 * [STARTUPINFOW\_FLAGS](threading/startupinfow\_flags.md)
 * [PROCESS\_INFORMATION](threading/process\_information.md)
 * [LPPROC\_THREAD\_ATTRIBUTE\_LIST](threading/lpproc\_thread\_attribute\_list.md)
+* [STARTUPINFOEXW](threading/startupinfoexw.md)
 
 ## MEMORY
 
