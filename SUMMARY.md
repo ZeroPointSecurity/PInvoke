@@ -79,6 +79,14 @@
 
 * [RtlInitUnicodeString](ntdll/rtlinitunicodestring.md)
 
+## AMSI
+
+* [AmsiInitialize](amsi/amsiinitialize.md)
+* [AmsiOpenSession](amsi/amsiopensession.md)
+* [AmsiScanBuffer](amsi/amsiscanbuffer.md)
+* [AmsiCloseSession](amsi/amsiclosesession.md)
+* [AmsiUninitialize](amsi/amsiuninitialize.md)
+
 ## FOUNDATION
 
 * [BOOL](foundation/bool.md)
@@ -144,6 +152,12 @@
 * [FILE\_CREATION\_DISPOSITION](filesystem/file\_creation\_disposition.md)
 * [FILE\_FLAGS\_AND\_ATTRIBUTES](filesystem/file\_flags\_and\_attributes.md)
 * [FILE\_SHARE\_MODE](filesystem/file\_share\_mode.md)
+
+## ANTIMALWARE
+
+* [HAMSICONTEXT](antimalware/hamsicontext.md)
+* [HAMSISESSION](antimalware/hamsisession.md)
+* [AMSI\_RESULT](antimalware/amsiresult.md)
 
 ## PIPES
 
