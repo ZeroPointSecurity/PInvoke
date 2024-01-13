@@ -62,6 +62,10 @@
 * [LoadLibrary](kernel32/loadlibrary.md)
 * [LoadLibraryEx](kernel32/loadlibraryex.md)
 * [VirtualFree](kernel32/virtualfree.md)
+* [VirtualFreeEx](kernel32/virtualfreeex.md)
+* [VirtualAlloc](kernel32/virtualalloc.md)
+* [VirtualProtect](kernel32/virtualprotect.md)
+* [CreateThread](kernel32/createthread.md)
 
 ## FOUNDATION
 
@@ -90,6 +94,7 @@
 * [PROCESS\_CREATION\_MITIGATION\_POLICY](threading/process\_creation\_mitigation\_policy.md)
 * [CREATE\_PROCESS\_LOGON\_FLAGS](threading/create\_process\_logon\_flags.md)
 * [LPFIBER\_START\_ROUTINE](threading/lpfiber\_start\_routine.md)
+* [THREAD\_CREATION\_FLAGS](threading/thread\_creation\_flags.md)
 
 ## MEMORY
 
