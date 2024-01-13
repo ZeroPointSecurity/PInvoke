@@ -37,6 +37,7 @@
 * [ResumeThread](kernel32/resumethread.md)
 * [SuspendThread](kernel32/suspendthread.md)
 * [ReadProcessMemory](kernel32/readprocessmemory.md)
+* [CreateFiber](kernel32/createfiber.md)
 
 ## FOUNDATION
 
@@ -61,6 +62,7 @@
 * [PROC\_THREAD\_ATTRIBUTE](threading/proc\_thread\_attribute.md)
 * [PROCESS\_CREATION\_MITIGATION\_POLICY](threading/process\_creation\_mitigation\_policy.md)
 * [CREATE\_PROCESS\_LOGON\_FLAGS](threading/create\_process\_logon\_flags.md)
+* [LPFIBER\_START\_ROUTINE](threading/lpfiber\_start\_routine.md)
 
 ## MEMORY
 
