@@ -1,5 +1,7 @@
 # Table of contents
 
+* [README](README.md)
+
 ## ADVAPI32
 
 * [AdjustTokenGroups](advapi32/adjusttokengroups.md)
