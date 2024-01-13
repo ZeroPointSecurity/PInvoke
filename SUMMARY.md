@@ -11,6 +11,7 @@
 * [CreateProcessAsUser](advapi32/createprocessasuser.md)
 * [LogonUser](advapi32/logonuser.md)
 * [ImpersonateLoggedOnUser](advapi32/impersonateloggedonuser.md)
+* [ImpersonateNamedPipeClient](advapi32/impersonatenamedpipeclient.md)
 
 ## KERNEL32
 
