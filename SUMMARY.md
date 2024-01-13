@@ -38,6 +38,7 @@
 * [SuspendThread](kernel32/suspendthread.md)
 * [ReadProcessMemory](kernel32/readprocessmemory.md)
 * [CreateFiber](kernel32/createfiber.md)
+* [DeleteFiber](kernel32/deletefiber.md)
 
 ## FOUNDATION
 
