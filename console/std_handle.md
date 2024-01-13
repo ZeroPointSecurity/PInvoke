@@ -1,0 +1,10 @@
+# STD\_HANDLE
+
+```csharp
+public enum STD_HANDLE : uint
+{
+    STD_INPUT_HANDLE = 4294967286U,
+    STD_OUTPUT_HANDLE = 4294967285U,
+    STD_ERROR_HANDLE = 4294967284U,
+}
+```

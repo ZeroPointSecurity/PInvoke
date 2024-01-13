@@ -71,6 +71,7 @@
 * [ConnectNamedPipe](kernel32/connectnamedpipe.md)
 * [DisconnectNamedPipe](kernel32/disconnectnamedpipe.md)
 * [GetThreadInformation](kernel32/getthreadinformation.md)
+* [GetStdHandle](kernel32/getstdhandle.md)
 
 ## FOUNDATION
 
@@ -149,3 +150,7 @@
 ## LIBRARY LOADER
 
 * [LOAD\_LIBRARY\_FLAGS](library-loader/load\_library\_flags.md)
+
+## CONSOLE
+
+* [STD\_HANDLE](console/std\_handle.md)
