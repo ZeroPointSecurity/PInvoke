@@ -40,6 +40,8 @@
 * [CreateFiber](kernel32/createfiber.md)
 * [DeleteFiber](kernel32/deletefiber.md)
 * [SwitchToFiber](kernel32/switchtofiber.md)
+* [ConvertThreadToFiber](kernel32/convertthreadtofiber.md)
+* [ConvertFiberToThread](kernel32/convertfibertothread.md)
 
 ## FOUNDATION
 
