@@ -73,6 +73,7 @@
 * [GetThreadInformation](kernel32/getthreadinformation.md)
 * [GetStdHandle](kernel32/getstdhandle.md)
 * [GetModuleHandle](kernel32/getmodulehandle.md)
+* [FlushInstructionCache](kernel32/flushinstructioncache.md)
 
 ## FOUNDATION
 
