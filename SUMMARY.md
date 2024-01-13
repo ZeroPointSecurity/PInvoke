@@ -29,6 +29,7 @@
 * [DeleteProcThreadAttributeList](kernel32/deleteprocthreadattributelist.md)
 * [ResumeThread](kernel32/resumethread.md)
 * [SuspendThread](kernel32/suspendthread.md)
+* [ReadProcessMemory](kernel32/readprocessmemory.md)
 
 ## FOUNDATION
 
