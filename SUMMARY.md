@@ -100,8 +100,8 @@
 * [PAPCFUNC](foundation/papcfunc.md)
 * [PCWSTR](foundation/pcwstr.md)
 * [PWSTR](foundation/pwstr.md)
-* [UNICODE\_STRING](foundation/unicode\_string.md)
 * [PSID](foundation/psid.md)
+* [UNICODE\_STRING](foundation/unicode\_string.md)
 
 ## THREADING
 
@@ -128,13 +128,13 @@
 * [SC\_HANDLE](security/sc\_handle.md)
 * [SECURITY\_ATTRIBUTES](security/security\_attributes.md)
 * [SECURITY\_IMPERSONATION\_LEVEL](security/security\_impersonation\_level.md)
+* [SID\_AND\_ATTRIBUTES](security/sid\_and\_attributes.md)
 * [TOKEN\_ACCESS\_MASK](security/token\_access\_mask.md)
 * [TOKEN\_GROUPS](security/token\_groups.md)
 * [TOKEN\_INFORMATION\_CLASS](security/token\_information\_class.md)
 * [TOKEN\_PRIVILEGES](security/token\_privileges.md)
 * [TOKEN\_PRIVILEGES\_ATTRIBUTES](security/token\_privileges\_attributes.md)
 * [TOKEN\_TYPE](security/token\_type.md)
-* [SID\_AND\_ATTRIBUTES](security/sid\_and\_attributes.md)
 
 ## SERVICES
 
