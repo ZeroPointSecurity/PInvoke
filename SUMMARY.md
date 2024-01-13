@@ -113,7 +113,6 @@
 * [PROCESS\_CREATION\_FLAGS](threading/process\_creation\_flags.md)
 * [PROCESS\_CREATION\_MITIGATION\_POLICY](threading/process\_creation\_mitigation\_policy.md)
 * [PROCESS\_INFORMATION](threading/process\_information.md)
-* [PROCESS\_MITIGATION\_POLICY](threading/process\_mitigation\_policy.md)
 * [STARTUPINFOEXW](threading/startupinfoexw.md)
 * [STARTUPINFOW](threading/startupinfow.md)
 * [STARTUPINFOW\_FLAGS](threading/startupinfow\_flags.md)
