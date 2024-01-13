@@ -10,6 +10,7 @@
 * [CreateProcessWithToken](advapi32/createprocesswithtoken.md)
 * [CreateProcessAsUser](advapi32/createprocessasuser.md)
 * [LogonUser](advapi32/logonuser.md)
+* [ImpersonateLoggedOnUser](advapi32/impersonateloggedonuser.md)
 
 ## KERNEL32
 
