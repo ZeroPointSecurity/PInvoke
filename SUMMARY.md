@@ -80,6 +80,7 @@
 ## NTDLL
 
 * [RtlInitUnicodeString](ntdll/rtlinitunicodestring.md)
+* [NtOpenProcess](ntdll/ntopenprocess.md)
 
 ## AMSI
 
@@ -102,6 +103,9 @@
 * [PWSTR](foundation/pwstr.md)
 * [PSID](foundation/psid.md)
 * [UNICODE\_STRING](foundation/unicode\_string.md)
+* [ACCESS\_MASK](foundation/access\_mask.md)
+* [OBJECT\_ATTRIBUTES](foundation/object\_attributes.md)
+* [CLIENT\_ID](foundation/client\_id.md)
 
 ## THREADING
 
