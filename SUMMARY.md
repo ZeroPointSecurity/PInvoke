@@ -9,6 +9,7 @@
 * [GetTokenInformation](advapi32/gettokeninformation.md)
 * [CreateProcessWithToken](advapi32/createprocesswithtoken.md)
 * [CreateProcessAsUser](advapi32/createprocessasuser.md)
+* [LogonUser](advapi32/logonuser.md)
 
 ## KERNEL32
 
@@ -71,6 +72,8 @@
 * [TOKEN\_TYPE](security/token\_type.md)
 * [SECURITY\_IMPERSONATION\_LEVEL](security/security\_impersonation\_level.md)
 * [TOKEN\_INFORMATION\_CLASS](security/token\_information\_class.md)
+* [LOGON32\_LOGON](security/logon32\_logon.md)
+* [LOGON32\_PROVIDER](security/logon32\_provider.md)
 
 ## FILESYSTEM
 
