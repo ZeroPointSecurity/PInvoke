@@ -10,6 +10,10 @@
 
 * [CloseHandle](<README (1).md>)
 * [CreateRemoteThread](kernel32/createremotethread.md)
+* [GetCurrentThread](kernel32/getcurrentthread.md)
+* [GetCurrentThreadId](kernel32/getcurrentthreadid.md)
+* [GetCurrentProcessId](kernel32/getcurrentprocessid.md)
+* [GetCurrentProcess](kernel32/getcurrentprocess.md)
 * [IsWow64Process](kernel32/iswow64process.md)
 * [OpenProcess](<README (1) (1).md>)
 * [QueueUserAPC](kernel32/queueuserapc.md)
