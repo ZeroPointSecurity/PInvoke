@@ -9,6 +9,7 @@
 
 * [CloseHandle](<README (1).md>)
 * [CreateRemoteThread](kernel32/createremotethread.md)
+* [IsWow64Process](kernel32/iswow64process.md)
 * [OpenProcess](<README (1) (1).md>)
 * [QueueUserAPC](kernel32/queueuserapc.md)
 * [VirtualAllocEx](kernel32/virtualallocex.md)
