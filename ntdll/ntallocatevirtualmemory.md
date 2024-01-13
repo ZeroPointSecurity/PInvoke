@@ -4,10 +4,10 @@
 [DllImport("ntdll.dll", ExactSpelling = true)]
 [DefaultDllImportSearchPaths(DllImportSearchPath.System32)]
 public static extern unsafe NTSTATUS NtAllocateVirtualMemory(
-    HANDLE processHandle,
-    void* baseAddress,
-    nint zeroBits,
-    nint* regionSize,
-    VIRTUAL_ALLOCATION_TYPE allocationType,
-    PAGE_PROTECTION_FLAGS protect);
+    HANDLE ProcessHandle,
+    void* BaseAddress,
+    nint ZeroBits,
+    nint* RegionSize,
+    VIRTUAL_ALLOCATION_TYPE AllocationType,
+    PAGE_PROTECTION_FLAGS Protect);
 ```
