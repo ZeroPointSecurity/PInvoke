@@ -22,6 +22,8 @@
 * [CloseServiceHandle](advapi32/closeservicehandle.md)
 * [CryptEncrypt](advapi32/cryptencrypt.md)
 * [CryptDecrypt](advapi32/cryptdecrypt.md)
+* [RtlEncryptMemory](advapi32/rtlencryptmemory.md)
+* [RtlDecryptMemory](advapi32/rtldecryptmemory.md)
 
 ## KERNEL32
 
@@ -64,6 +66,7 @@
 * [PCWSTR](foundation/pcwstr.md)
 * [PWSTR](foundation/pwstr.md)
 * [UNICODE\_STRING](foundation/unicode\_string.md)
+* [NTSTATUS](foundation/ntstatus.md)
 
 ## THREADING
 
