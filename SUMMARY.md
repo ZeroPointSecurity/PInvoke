@@ -42,6 +42,7 @@
 * [SwitchToFiber](kernel32/switchtofiber.md)
 * [ConvertThreadToFiber](kernel32/convertthreadtofiber.md)
 * [ConvertFiberToThread](kernel32/convertfibertothread.md)
+* [CreateMailslot](kernel32/createmailslot.md)
 
 ## FOUNDATION
 
