@@ -1,0 +1,9 @@
+# CREATE\_PROCESS\_LOGON\_FLAGS
+
+```csharp
+public enum CREATE_PROCESS_LOGON_FLAGS : uint
+{
+    LOGON_WITH_PROFILE = 1U,
+    LOGON_NETCREDENTIALS_ONLY = 2U,
+}
+```
