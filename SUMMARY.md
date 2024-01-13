@@ -68,6 +68,7 @@
 * [VirtualAlloc](kernel32/virtualalloc.md)
 * [VirtualProtect](kernel32/virtualprotect.md)
 * [CreateThread](kernel32/createthread.md)
+* [ConnectNamedPipe](kernel32/connectnamedpipe.md)
 
 ## FOUNDATION
 
