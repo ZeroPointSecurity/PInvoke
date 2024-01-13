@@ -69,6 +69,7 @@
 * [VirtualProtect](kernel32/virtualprotect.md)
 * [CreateThread](kernel32/createthread.md)
 * [ConnectNamedPipe](kernel32/connectnamedpipe.md)
+* [DisconnectNamedPipe](kernel32/disconnectnamedpipe.md)
 
 ## FOUNDATION
 
