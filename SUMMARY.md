@@ -70,6 +70,7 @@
 * [CreateThread](kernel32/createthread.md)
 * [ConnectNamedPipe](kernel32/connectnamedpipe.md)
 * [DisconnectNamedPipe](kernel32/disconnectnamedpipe.md)
+* [GetThreadInformation](kernel32/getthreadinformation.md)
 
 ## FOUNDATION
 
@@ -100,6 +101,7 @@
 * [CREATE\_PROCESS\_LOGON\_FLAGS](threading/create\_process\_logon\_flags.md)
 * [LPFIBER\_START\_ROUTINE](threading/lpfiber\_start\_routine.md)
 * [THREAD\_CREATION\_FLAGS](threading/thread\_creation\_flags.md)
+* [THREAD\_INFORMATION\_CLASS](threading/thread\_information\_class.md)
 
 ## MEMORY
 
