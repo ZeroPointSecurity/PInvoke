@@ -8,6 +8,7 @@
 * [SetTokenInformation](advapi32/settokeninformation.md)
 * [GetTokenInformation](advapi32/gettokeninformation.md)
 * [CreateProcessWithToken](advapi32/createprocesswithtoken.md)
+* [CreateProcessAsUser](advapi32/createprocessasuser.md)
 
 ## KERNEL32
 
