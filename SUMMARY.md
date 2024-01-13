@@ -20,6 +20,8 @@
 * [ControlService](advapi32/controlservice.md)
 * [ChangeServiceConfig](advapi32/changeserviceconfig.md)
 * [CloseServiceHandle](advapi32/closeservicehandle.md)
+* [CryptEncrypt](advapi32/cryptencrypt.md)
+* [CryptDecrypt](advapi32/cryptdecrypt.md)
 
 ## KERNEL32
 
