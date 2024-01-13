@@ -12,6 +12,14 @@
 * [LogonUser](advapi32/logonuser.md)
 * [ImpersonateLoggedOnUser](advapi32/impersonateloggedonuser.md)
 * [ImpersonateNamedPipeClient](advapi32/impersonatenamedpipeclient.md)
+* [OpenService](advapi32/openservice.md)
+* [OpenSCManager](advapi32/openscmanager.md)
+* [CreateService](advapi32/createservice.md)
+* [DeleteService](advapi32/deleteservice.md)
+* [StartService](advapi32/startservice.md)
+* [ControlService](advapi32/controlservice.md)
+* [ChangeServiceConfig](advapi32/changeserviceconfig.md)
+* [CloseServiceHandle](advapi32/closeservicehandle.md)
 
 ## KERNEL32
 
@@ -85,6 +93,7 @@
 * [TOKEN\_INFORMATION\_CLASS](security/token\_information\_class.md)
 * [LOGON32\_LOGON](security/logon32\_logon.md)
 * [LOGON32\_PROVIDER](security/logon32\_provider.md)
+* [SC\_HANDLE](security/sc\_handle.md)
 
 ## FILESYSTEM
 
@@ -99,3 +108,11 @@
 ## NTDLL
 
 * [RtlInitUnicodeString](ntdll/rtlinitunicodestring.md)
+
+## SERVICES
+
+* [ENUM\_SERVICE\_TYPE](services/enum\_service\_type.md)
+* [SERVICE\_START\_TYPE](services/service\_start\_type.md)
+* [SERVICE\_ERROR](services/service\_error.md)
+* [SERVICE\_STATUS](services/service\_status.md)
+* [SERVICE\_STATUS\_CURRENT\_STATE](services/service\_status\_current\_state.md)

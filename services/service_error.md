@@ -1,0 +1,11 @@
+# SERVICE\_ERROR
+
+```csharp
+public enum SERVICE_ERROR : uint
+{
+    SERVICE_ERROR_CRITICAL = 3U,
+    SERVICE_ERROR_IGNORE = 0U,
+    SERVICE_ERROR_NORMAL = 1U,
+    SERVICE_ERROR_SEVERE = 2U,
+}
+```
