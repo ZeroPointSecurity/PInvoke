@@ -24,6 +24,7 @@
 * [CryptDecrypt](advapi32/cryptdecrypt.md)
 * [RtlEncryptMemory](advapi32/rtlencryptmemory.md)
 * [RtlDecryptMemory](advapi32/rtldecryptmemory.md)
+* [AdjustTokenPrivileges](advapi32/adjusttokenprivileges.md)
 
 ## KERNEL32
 
@@ -78,6 +79,7 @@
 * [NTSTATUS](foundation/ntstatus.md)
 * [DUPLICATE\_HANDLE\_OPTIONS](foundation/duplicate\_handle\_options.md)
 * [HMODULE](foundation/hmodule.md)
+* [LUID](foundation/luid.md)
 
 ## THREADING
 
@@ -112,6 +114,9 @@
 * [LOGON32\_LOGON](security/logon32\_logon.md)
 * [LOGON32\_PROVIDER](security/logon32\_provider.md)
 * [SC\_HANDLE](security/sc\_handle.md)
+* [TOKEN\_PRIVILEGES](security/token\_privileges.md)
+* [LUID\_AND\_ATTRIBUTES](security/luid\_and\_attributes.md)
+* [TOKEN\_PRIVILEGES\_ATTRIBUTES](security/token\_privileges\_attributes.md)
 
 ## FILESYSTEM
 
