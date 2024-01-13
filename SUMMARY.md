@@ -83,6 +83,7 @@
 * [NtOpenProcess](ntdll/ntopenprocess.md)
 * [NtAllocateVirtualMemory](ntdll/ntallocatevirtualmemory.md)
 * [NtWriteVirtualMemory](ntdll/ntwritevirtualmemory.md)
+* [NtProtectVirtualMemory](ntdll/ntprotectvirtualmemory.md)
 
 ## AMSI
 
