@@ -14,3 +14,7 @@ public static extern unsafe BOOL UpdateProcThreadAttribute(
 ```
 
 [lpproc\_thread\_attribute\_list.md](../threading/lpproc\_thread\_attribute\_list.md "mention")
+
+[proc\_thread\_attribute.md](../threading/proc\_thread\_attribute.md "mention")
+
+[process\_creation\_mitigation\_policy.md](../threading/process\_creation\_mitigation\_policy.md "mention")
