@@ -38,6 +38,7 @@
 * [PAPCFUNC](foundation/papcfunc.md)
 * [PCWSTR](foundation/pcwstr.md)
 * [PWSTR](foundation/pwstr.md)
+* [UNICODE\_STRING](foundation/unicode\_string.md)
 
 ## THREADING
 
