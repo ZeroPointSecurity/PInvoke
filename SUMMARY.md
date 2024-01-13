@@ -73,3 +73,7 @@
 ## PIPES
 
 * [NAMED\_PIPE\_MODE](pipes/named\_pipe\_mode.md)
+
+## NTDLL
+
+* [RtlInitUnicodeString](ntdll/rtlinitunicodestring.md)
