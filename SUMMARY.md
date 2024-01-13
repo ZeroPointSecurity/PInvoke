@@ -5,6 +5,8 @@
 * [DuplicateTokenEx](README.md)
 * [OpenProcessToken](<README (2).md>)
 * [OpenThreadToken](advapi32/openthreadtoken.md)
+* [SetTokenInformation](advapi32/settokeninformation.md)
+* [GetTokenInformation](advapi32/gettokeninformation.md)
 
 ## KERNEL32
 
@@ -65,6 +67,7 @@
 * [TOKEN\_ACCESS\_MASK](security/token\_access\_mask.md)
 * [TOKEN\_TYPE](security/token\_type.md)
 * [SECURITY\_IMPERSONATION\_LEVEL](security/security\_impersonation\_level.md)
+* [TOKEN\_INFORMATION\_CLASS](security/token\_information\_class.md)
 
 ## FILESYSTEM
 
