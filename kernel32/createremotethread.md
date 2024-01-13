@@ -12,3 +12,5 @@ public static extern unsafe HANDLE CreateRemoteThread(
     uint dwCreationFlags,
     [Optional] uint* lpThreadId);
 ```
+
+[lpthread\_start\_routine.md](../threading/lpthread\_start\_routine.md "mention")

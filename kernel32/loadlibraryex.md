@@ -8,3 +8,5 @@ public static extern HMODULE LoadLibraryEx(
     HANDLE hFile,
     LOAD_LIBRARY_FLAGS dwFlags);
 ```
+
+[load\_library\_flags.md](../library-loader/load\_library\_flags.md "mention")

@@ -12,3 +12,9 @@ public static extern unsafe HANDLE CreateFile(
     FILE_FLAGS_AND_ATTRIBUTES dwFlagsAndAttributes,
     HANDLE hTemplateFile);
 ```
+
+[file\_share\_mode.md](../filesystem/file\_share\_mode.md "mention")
+
+[file\_creation\_disposition.md](../filesystem/file\_creation\_disposition.md "mention")
+
+[file\_flags\_and\_attributes.md](../filesystem/file\_flags\_and\_attributes.md "mention")

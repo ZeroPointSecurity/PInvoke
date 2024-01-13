@@ -9,3 +9,5 @@ public static extern unsafe BOOL InitializeProcThreadAttributeList(
     uint dwFlags,
     nuint* lpSize);
 ```
+
+[lpproc\_thread\_attribute\_list.md](../threading/lpproc\_thread\_attribute\_list.md "mention")

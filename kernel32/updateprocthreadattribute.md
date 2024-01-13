@@ -12,3 +12,5 @@ public static extern unsafe BOOL UpdateProcThreadAttribute(
     [Optional] void* lpPreviousValue,
     [Optional] nuint* lpReturnSize);
 ```
+
+[lpproc\_thread\_attribute\_list.md](../threading/lpproc\_thread\_attribute\_list.md "mention")

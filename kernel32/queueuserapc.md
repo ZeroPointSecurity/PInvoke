@@ -8,3 +8,5 @@ public static extern uint QueueUserAPC(
     HANDLE hThread,
     nuint dwData);
 ```
+
+[papcfunc.md](../foundation/papcfunc.md "mention")

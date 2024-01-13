@@ -8,3 +8,5 @@ public static extern unsafe BOOL VirtualFree(
     nuint dwSize,
     VIRTUAL_FREE_TYPE dwFreeType);
 ```
+
+[virtual\_free\_type.md](../memory/virtual\_free\_type.md "mention")

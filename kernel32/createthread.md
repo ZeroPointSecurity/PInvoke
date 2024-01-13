@@ -11,3 +11,7 @@ public static extern unsafe HANDLE CreateThread(
     THREAD_CREATION_FLAGS dwCreationFlags,
     [Optional] uint* lpThreadId);
 ```
+
+[lpthread\_start\_routine.md](../threading/lpthread\_start\_routine.md "mention")
+
+[thread\_creation\_flags.md](../threading/thread\_creation\_flags.md "mention")

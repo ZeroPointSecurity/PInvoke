@@ -12,3 +12,5 @@ public static extern unsafe BOOL DuplicateHandle(
     BOOL bInheritHandle,
     DUPLICATE_HANDLE_OPTIONS dwOptions);
 ```
+
+[duplicate\_handle\_options.md](../foundation/duplicate\_handle\_options.md "mention")

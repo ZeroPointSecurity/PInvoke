@@ -10,3 +10,5 @@ public static extern unsafe BOOL VirtualProtectEx(
     PAGE_PROTECTION_FLAGS flNewProtect,
     PAGE_PROTECTION_FLAGS* lpflOldProtect);
 ```
+
+[page\_protection\_flags.md](../memory/page\_protection\_flags.md "mention")

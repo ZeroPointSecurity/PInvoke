@@ -9,3 +9,5 @@ public static extern unsafe BOOL GetThreadInformation(
     void* ThreadInformation,
     uint ThreadInformationSize);
 ```
+
+[thread\_information\_class.md](../threading/thread\_information\_class.md "mention")

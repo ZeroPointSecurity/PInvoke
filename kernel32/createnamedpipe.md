@@ -13,3 +13,7 @@ public static extern unsafe HANDLE CreateNamedPipe(
     uint nDefaultTimeOut,
     [Optional] SECURITY_ATTRIBUTES* lpSecurityAttributes);
 ```
+
+[file\_flags\_and\_attributes.md](../filesystem/file\_flags\_and\_attributes.md "mention")
+
+[named\_pipe\_mode.md](../pipes/named\_pipe\_mode.md "mention")

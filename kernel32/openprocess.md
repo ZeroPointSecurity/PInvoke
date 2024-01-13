@@ -9,3 +9,4 @@ public static extern HANDLE OpenProcess(
     uint dwProcessId);
 ```
 
+[process\_access\_rights.md](../threading/process\_access\_rights.md "mention")

@@ -8,3 +8,5 @@ public static extern unsafe void* CreateFiber(
     LPFIBER_START_ROUTINE lpStartAddress,
     [Optional] void* lpParameter);
 ```
+
+[lpfiber\_start\_routine.md](../threading/lpfiber\_start\_routine.md "mention")
