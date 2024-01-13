@@ -46,6 +46,9 @@
 * [PROCESS\_INFORMATION](threading/process\_information.md)
 * [LPPROC\_THREAD\_ATTRIBUTE\_LIST](threading/lpproc\_thread\_attribute\_list.md)
 * [STARTUPINFOEXW](threading/startupinfoexw.md)
+* [PROCESS\_MITIGATION\_POLICY](threading/process\_mitigation\_policy.md)
+* [PROC\_THREAD\_ATTRIBUTE](threading/proc\_thread\_attribute.md)
+* [PROCESS\_CREATION\_MITIGATION\_POLICY](threading/process\_creation\_mitigation\_policy.md)
 
 ## MEMORY
 
