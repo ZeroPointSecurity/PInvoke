@@ -28,6 +28,7 @@
 * [UpdateProcThreadAttribute](kernel32/updateprocthreadattribute.md)
 * [DeleteProcThreadAttributeList](kernel32/deleteprocthreadattributelist.md)
 * [ResumeThread](kernel32/resumethread.md)
+* [SuspendThread](kernel32/suspendthread.md)
 
 ## FOUNDATION
 
