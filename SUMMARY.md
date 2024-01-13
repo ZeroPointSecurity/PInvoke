@@ -58,6 +58,9 @@
 * [DeviceIoControl](kernel32/deviceiocontrol.md)
 * [CreateFile](kernel32/createfile.md)
 * [DuplicateHandle](kernel32/duplicatehandle.md)
+* [FreeLibrary](kernel32/freelibrary.md)
+* [LoadLibrary](kernel32/loadlibrary.md)
+* [LoadLibraryEx](kernel32/loadlibraryex.md)
 
 ## FOUNDATION
 
@@ -69,6 +72,7 @@
 * [UNICODE\_STRING](foundation/unicode\_string.md)
 * [NTSTATUS](foundation/ntstatus.md)
 * [DUPLICATE\_HANDLE\_OPTIONS](foundation/duplicate\_handle\_options.md)
+* [HMODULE](foundation/hmodule.md)
 
 ## THREADING
 
@@ -123,3 +127,7 @@
 * [SERVICE\_ERROR](services/service\_error.md)
 * [SERVICE\_STATUS](services/service\_status.md)
 * [SERVICE\_STATUS\_CURRENT\_STATE](services/service\_status\_current\_state.md)
+
+## LIBRARY LOADER
+
+* [LOAD\_LIBRARY\_FLAGS](library-loader/load\_library\_flags.md)
