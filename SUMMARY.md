@@ -23,6 +23,7 @@
 * [PeekNamedPipe](kernel32/peeknamedpipe.md)
 * [CreatePipe](kernel32/createpipe.md)
 * [CreateNamedPipe](kernel32/createnamedpipe.md)
+* [CreateProcess](kernel32/createprocess.md)
 
 ## FOUNDATION
 
@@ -30,11 +31,16 @@
 * [HANDLE](foundation/handle.md)
 * [PAPCFUNC](foundation/papcfunc.md)
 * [PCWSTR](foundation/pcwstr.md)
+* [PWSTR](foundation/pwstr.md)
 
 ## THREADING
 
 * [LPTHREAD\_START\_ROUTINE](threading/lpthread\_start\_routine.md)
 * [PROCESS\_ACCESS\_RIGHTS](threading/process\_access\_rights.md)
+* [PROCESS\_CREATION\_FLAGS](threading/process\_creation\_flags.md)
+* [STARTUPINFOW](threading/startupinfow.md)
+* [STARTUPINFOW\_FLAGS](threading/startupinfow\_flags.md)
+* [PROCESS\_INFORMATION](threading/process\_information.md)
 
 ## MEMORY
 
