@@ -81,6 +81,7 @@
 
 * [RtlInitUnicodeString](ntdll/rtlinitunicodestring.md)
 * [NtOpenProcess](ntdll/ntopenprocess.md)
+* [NtAllocateVirtualMemory](ntdll/ntallocatevirtualmemory.md)
 
 ## AMSI
 
