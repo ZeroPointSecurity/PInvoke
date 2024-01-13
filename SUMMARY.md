@@ -101,6 +101,7 @@
 * [PCWSTR](foundation/pcwstr.md)
 * [PWSTR](foundation/pwstr.md)
 * [UNICODE\_STRING](foundation/unicode\_string.md)
+* [PSID](foundation/psid.md)
 
 ## THREADING
 
@@ -133,6 +134,7 @@
 * [TOKEN\_PRIVILEGES](security/token\_privileges.md)
 * [TOKEN\_PRIVILEGES\_ATTRIBUTES](security/token\_privileges\_attributes.md)
 * [TOKEN\_TYPE](security/token\_type.md)
+* [SID\_AND\_ATTRIBUTES](security/sid\_and\_attributes.md)
 
 ## SERVICES
 

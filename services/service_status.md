@@ -12,3 +12,7 @@ public struct SERVICE_STATUS
     public uint dwWaitHint;
 }
 ```
+
+[enum\_service\_type.md](enum\_service\_type.md "mention")
+
+[service\_status\_current\_state.md](service\_status\_current\_state.md "mention")

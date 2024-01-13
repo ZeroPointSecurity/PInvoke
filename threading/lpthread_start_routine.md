@@ -2,6 +2,5 @@
 
 ```csharp
 [UnmanagedFunctionPointerAttribute(CallingConvention.Winapi)]
-public unsafe delegate uint LPTHREAD_START_ROUTINE(
-    void* lpThreadParameter);
+public unsafe delegate uint LPTHREAD_START_ROUTINE(void* lpThreadParameter);
 ```

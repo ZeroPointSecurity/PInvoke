@@ -23,3 +23,5 @@ public struct STARTUPINFOW
     public HANDLE hStdError;
 }
 ```
+
+[startupinfow\_flags.md](startupinfow\_flags.md "mention")

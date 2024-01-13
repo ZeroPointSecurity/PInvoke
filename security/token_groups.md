@@ -7,3 +7,5 @@ public struct TOKEN_GROUPS
     public SID_AND_ATTRIBUTES Groups;
 }
 ```
+
+[sid\_and\_attributes.md](sid\_and\_attributes.md "mention")
