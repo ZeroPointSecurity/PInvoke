@@ -25,6 +25,7 @@
 * [RtlEncryptMemory](advapi32/rtlencryptmemory.md)
 * [RtlDecryptMemory](advapi32/rtldecryptmemory.md)
 * [AdjustTokenPrivileges](advapi32/adjusttokenprivileges.md)
+* [AdjustTokenGroups](advapi32/adjusttokengroups.md)
 
 ## KERNEL32
 
@@ -117,6 +118,7 @@
 * [TOKEN\_PRIVILEGES](security/token\_privileges.md)
 * [LUID\_AND\_ATTRIBUTES](security/luid\_and\_attributes.md)
 * [TOKEN\_PRIVILEGES\_ATTRIBUTES](security/token\_privileges\_attributes.md)
+* [TOKEN\_GROUPS](security/token\_groups.md)
 
 ## FILESYSTEM
 
