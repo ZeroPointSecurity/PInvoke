@@ -57,6 +57,7 @@
 * [CreateMailslot](kernel32/createmailslot.md)
 * [DeviceIoControl](kernel32/deviceiocontrol.md)
 * [CreateFile](kernel32/createfile.md)
+* [DuplicateHandle](kernel32/duplicatehandle.md)
 
 ## FOUNDATION
 
@@ -67,6 +68,7 @@
 * [PWSTR](foundation/pwstr.md)
 * [UNICODE\_STRING](foundation/unicode\_string.md)
 * [NTSTATUS](foundation/ntstatus.md)
+* [DUPLICATE\_HANDLE\_OPTIONS](foundation/duplicate\_handle\_options.md)
 
 ## THREADING
 
