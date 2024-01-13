@@ -24,6 +24,9 @@
 * [CreatePipe](kernel32/createpipe.md)
 * [CreateNamedPipe](kernel32/createnamedpipe.md)
 * [CreateProcess](kernel32/createprocess.md)
+* [InitializeProcThreadAttributeList](kernel32/initializeprocthreadattributelist.md)
+* [UpdateProcThreadAttribute](kernel32/updateprocthreadattribute.md)
+* [DeleteProcThreadAttributeList](kernel32/deleteprocthreadattributelist.md)
 
 ## FOUNDATION
 
@@ -41,6 +44,7 @@
 * [STARTUPINFOW](threading/startupinfow.md)
 * [STARTUPINFOW\_FLAGS](threading/startupinfow\_flags.md)
 * [PROCESS\_INFORMATION](threading/process\_information.md)
+* [LPPROC\_THREAD\_ATTRIBUTE\_LIST](threading/lpproc\_thread\_attribute\_list.md)
 
 ## MEMORY
 
