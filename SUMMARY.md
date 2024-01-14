@@ -82,13 +82,13 @@
 * [NtAllocateVirtualMemory](ntdll/ntallocatevirtualmemory.md)
 * [NtClose](ntdll/ntclose.md)
 * [NtCreateSection](ntdll/ntcreatesection.md)
+* [NtMapViewOfSection](ntdll/ntmapviewofsection.md)
 * [NtOpenFile](ntdll/ntopenfile.md)
 * [NtOpenProcess](ntdll/ntopenprocess.md)
 * [NtProtectVirtualMemory](ntdll/ntprotectvirtualmemory.md)
+* [NtUnmapViewOfSection](ntdll/ntunmapviewofsection.md)
 * [NtWriteVirtualMemory](ntdll/ntwritevirtualmemory.md)
 * [RtlInitUnicodeString](ntdll/rtlinitunicodestring.md)
-* [NtMapViewOfSection](ntdll/ntmapviewofsection.md)
-* [NtUnmapViewOfSection](ntdll/ntunmapviewofsection.md)
 
 ## AMSI
 
