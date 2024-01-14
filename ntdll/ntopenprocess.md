@@ -5,12 +5,12 @@
 [DefaultDllImportSearchPaths(DllImportSearchPath.System32)]
 public static extern unsafe NTSTATUS NtOpenProcess(
     HANDLE* ProcessHandle,
-    ulong DesiredAccess,
+    uint DesiredAccess,
     OBJECT_ATTRIBUTES* ObjectAttributes,
     CLIENT_ID* ClientId);
 ```
 
-[access\_mask.md](../foundation/access\_mask.md "mention")
+[process\_access\_rights.md](../threading/process\_access\_rights.md "mention")
 
 [object\_attributes.md](../foundation/object\_attributes.md "mention")
 
