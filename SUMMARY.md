@@ -86,6 +86,7 @@
 * [RtlInitUnicodeString](ntdll/rtlinitunicodestring.md)
 * [NtOpenFile](ntdll/ntopenfile.md)
 * [NtCreateSection](ntdll/ntcreatesection.md)
+* [NtClose](ntdll/ntclose.md)
 
 ## AMSI
 
@@ -182,11 +183,11 @@
 
 ## IO
 
-* [IO\_STATUS\_BLOCK](io/io_status_block.md)
+* [IO\_STATUS\_BLOCK](io/io\_status\_block.md)
 
 ## WDK
 
-* [SECTION\_INHERIT](wdk/section_inherit.md)
+* [SECTION\_INHERIT](wdk/section\_inherit.md)
 
 ## CONSOLE
 
