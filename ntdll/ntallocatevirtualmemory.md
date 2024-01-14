@@ -6,8 +6,12 @@
 public static extern unsafe NTSTATUS NtAllocateVirtualMemory(
     HANDLE ProcessHandle,
     void* BaseAddress,
-    nint ZeroBits,
-    nint* RegionSize,
-    VIRTUAL_ALLOCATION_TYPE AllocationType,
-    PAGE_PROTECTION_FLAGS Protect);
+    nuint ZeroBits,
+    nuint* RegionSize,
+    uint AllocationType,
+    uint Protect);
 ```
+
+[virtual\_allocation\_type.md](../memory/virtual\_allocation\_type.md "mention")
+
+[page\_protection\_flags.md](../memory/page\_protection\_flags.md "mention")
