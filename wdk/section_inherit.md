@@ -3,7 +3,7 @@
 ```csharp
 public enum SECTION_INHERIT
 {
-	ViewShare = 1,
-	ViewUnmap = 2,
+    ViewShare = 1,
+    ViewUnmap = 2,
 }
 ```
