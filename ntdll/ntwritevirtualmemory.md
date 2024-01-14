@@ -7,6 +7,6 @@ public static extern unsafe NTSTATUS NtWriteVirtualMemory(
     HANDLE ProcessHandle,
     void* BaseAddress,
     void* Buffer,
-    nint BufferLength,
-    nint* BytesWritten);
+    uint NumberOfBytesToWrite,
+    [Optional] uint* NumberOfBytesWritten);
 ```
