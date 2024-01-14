@@ -3,10 +3,10 @@
 ```csharp
 public unsafe struct OBJECT_ATTRIBUTES
 {
-    public ulong Length;
+    public uint Length;
     public HANDLE RootDirectory;
     public UNICODE_STRING* ObjectName;
-    public ulong Attributes;
+    public uint Attributes;
     public void* SecurityDescriptor;
     public void* SecurityQualityOfService;
 }
@@ -18,15 +18,16 @@ public unsafe struct OBJECT_ATTRIBUTES
 //
 // Valid values for the Attributes field
 //
-public const ulong OBJ_INHERIT = 0x00000002L;
-public const ulong OBJ_PERMANENT = 0x00000010L;
-public const ulong OBJ_EXCLUSIVE = 0x00000020L;
-public const ulong OBJ_CASE_INSENSITIVE = 0x00000040L;
-public const ulong OBJ_OPENIF = 0x00000080L;
-public const ulong OBJ_OPENLINK = 0x00000100L;
-public const ulong OBJ_KERNEL_HANDLE = 0x00000200L;
-public const ulong OBJ_FORCE_ACCESS_CHECK = 0x00000400L;
-public const ulong OBJ_IGNORE_IMPERSONATED_DEVICEMAP = 0x00000800L;
-public const ulong OBJ_DONT_REPARSE = 0x00001000L;
-public const ulong OBJ_VALID_ATTRIBUTES = 0x00001FF2L;
+public const int OBJ_HANDLE_TAGBITS = 3;
+public const int OBJ_INHERIT = 2;
+public const int OBJ_PERMANENT = 16;
+public const int OBJ_EXCLUSIVE = 32;
+public const int OBJ_CASE_INSENSITIVE = 64;
+public const int OBJ_OPENIF = 128;
+public const int OBJ_OPENLINK = 256;
+public const int OBJ_KERNEL_HANDLE = 512;
+public const int OBJ_FORCE_ACCESS_CHECK = 1024;
+public const int OBJ_IGNORE_IMPERSONATED_DEVICEMAP = 2048;
+public const int OBJ_DONT_REPARSE = 4096;
+public const int OBJ_VALID_ATTRIBUTES = 8178;
 ```

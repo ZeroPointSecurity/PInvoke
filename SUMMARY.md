@@ -180,6 +180,10 @@
 
 * [LOAD\_LIBRARY\_FLAGS](library-loader/load\_library\_flags.md)
 
+## IO
+
+* [IO\_STATUS\_BLOCK](io/io_status_block.md)
+
 ## CONSOLE
 
 * [STD\_HANDLE](console/std\_handle.md)
