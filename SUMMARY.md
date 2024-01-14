@@ -79,11 +79,11 @@
 
 ## NTDLL
 
-* [RtlInitUnicodeString](ntdll/rtlinitunicodestring.md)
-* [NtOpenProcess](ntdll/ntopenprocess.md)
 * [NtAllocateVirtualMemory](ntdll/ntallocatevirtualmemory.md)
-* [NtWriteVirtualMemory](ntdll/ntwritevirtualmemory.md)
+* [NtOpenProcess](ntdll/ntopenprocess.md)
 * [NtProtectVirtualMemory](ntdll/ntprotectvirtualmemory.md)
+* [NtWriteVirtualMemory](ntdll/ntwritevirtualmemory.md)
+* [RtlInitUnicodeString](ntdll/rtlinitunicodestring.md)
 
 ## AMSI
 
@@ -95,20 +95,20 @@
 
 ## FOUNDATION
 
+* [ACCESS\_MASK](foundation/access\_mask.md)
 * [BOOL](foundation/bool.md)
+* [CLIENT\_ID](foundation/client\_id.md)
 * [DUPLICATE\_HANDLE\_OPTIONS](foundation/duplicate\_handle\_options.md)
 * [HANDLE](foundation/handle.md)
 * [HMODULE](foundation/hmodule.md)
 * [LUID](foundation/luid.md)
 * [NTSTATUS](foundation/ntstatus.md)
+* [OBJECT\_ATTRIBUTES](foundation/object\_attributes.md)
 * [PAPCFUNC](foundation/papcfunc.md)
 * [PCWSTR](foundation/pcwstr.md)
 * [PWSTR](foundation/pwstr.md)
 * [PSID](foundation/psid.md)
 * [UNICODE\_STRING](foundation/unicode\_string.md)
-* [ACCESS\_MASK](foundation/access\_mask.md)
-* [OBJECT\_ATTRIBUTES](foundation/object\_attributes.md)
-* [CLIENT\_ID](foundation/client\_id.md)
 
 ## THREADING
 
@@ -165,9 +165,9 @@
 
 ## ANTIMALWARE
 
+* [AMSI\_RESULT](antimalware/amsiresult.md)
 * [HAMSICONTEXT](antimalware/hamsicontext.md)
 * [HAMSISESSION](antimalware/hamsisession.md)
-* [AMSI\_RESULT](antimalware/amsiresult.md)
 
 ## PIPES
 
