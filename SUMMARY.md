@@ -80,13 +80,13 @@
 ## NTDLL
 
 * [NtAllocateVirtualMemory](ntdll/ntallocatevirtualmemory.md)
+* [NtClose](ntdll/ntclose.md)
+* [NtCreateSection](ntdll/ntcreatesection.md)
+* [NtOpenFile](ntdll/ntopenfile.md)
 * [NtOpenProcess](ntdll/ntopenprocess.md)
 * [NtProtectVirtualMemory](ntdll/ntprotectvirtualmemory.md)
 * [NtWriteVirtualMemory](ntdll/ntwritevirtualmemory.md)
 * [RtlInitUnicodeString](ntdll/rtlinitunicodestring.md)
-* [NtOpenFile](ntdll/ntopenfile.md)
-* [NtCreateSection](ntdll/ntcreatesection.md)
-* [NtClose](ntdll/ntclose.md)
 
 ## AMSI
 
