@@ -87,6 +87,7 @@
 * [NtProtectVirtualMemory](ntdll/ntprotectvirtualmemory.md)
 * [NtWriteVirtualMemory](ntdll/ntwritevirtualmemory.md)
 * [RtlInitUnicodeString](ntdll/rtlinitunicodestring.md)
+* [NtMapViewOfSection](ntdll/ntmapviewofsection.md)
 
 ## AMSI
 
