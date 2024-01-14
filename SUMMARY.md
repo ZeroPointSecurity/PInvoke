@@ -184,6 +184,10 @@
 
 * [IO\_STATUS\_BLOCK](io/io_status_block.md)
 
+## WDK
+
+* [SECTION\_INHERIT](wdk/section_inherit.md)
+
 ## CONSOLE
 
 * [STD\_HANDLE](console/std\_handle.md)
