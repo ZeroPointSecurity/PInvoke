@@ -6,7 +6,9 @@
 public static extern unsafe NTSTATUS NtProtectVirtualMemory(
     HANDLE ProcessHandle,
     void* BaseAddress,
-    nint* RegionSize,
-    PAGE_PROTECTION_FLAGS NewProtect,
-    PAGE_PROTECTION_FLAGS* OldProtect);
+    uint* NumberOfBytesToProtect,
+    uint NewAccessProtection,
+    uint* OldAccessProtection);
 ```
+
+[page\_protection\_flags.md](../memory/page\_protection\_flags.md "mention")
