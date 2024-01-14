@@ -84,6 +84,7 @@
 * [NtProtectVirtualMemory](ntdll/ntprotectvirtualmemory.md)
 * [NtWriteVirtualMemory](ntdll/ntwritevirtualmemory.md)
 * [RtlInitUnicodeString](ntdll/rtlinitunicodestring.md)
+* [NtOpenFile](ntdll/ntopenfile.md)
 
 ## AMSI
 
@@ -109,6 +110,7 @@
 * [PWSTR](foundation/pwstr.md)
 * [PSID](foundation/psid.md)
 * [UNICODE\_STRING](foundation/unicode\_string.md)
+* [IO\_STATUS\_BLOCK](foundation/io\_status\_block.md)
 
 ## THREADING
 
