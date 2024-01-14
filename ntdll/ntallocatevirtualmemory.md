@@ -6,8 +6,8 @@
 public static extern unsafe NTSTATUS NtAllocateVirtualMemory(
     HANDLE ProcessHandle,
     void* BaseAddress,
-    nuint ZeroBits,
-    nuint* RegionSize,
+    uint ZeroBits,
+    uint* RegionSize,
     uint AllocationType,
     uint Protect);
 ```
