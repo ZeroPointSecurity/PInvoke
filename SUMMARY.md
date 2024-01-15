@@ -78,6 +78,8 @@
 * [WriteProcessMemory](kernel32/writeprocessmemory.md)
 * [HeapAlloc](kernel32/heapalloc.md)
 * [LocalAlloc](kernel32/localalloc.md)
+* [HeapFree](kernel32/heapfree.md)
+* [LocalFree](kernel32/localfree.md)
 
 ## NTDLL
 

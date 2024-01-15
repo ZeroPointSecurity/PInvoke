@@ -7,3 +7,5 @@ public static extern HLOCAL LocalAlloc(
     LOCAL_ALLOC_FLAGS uFlags,
     nuint uBytes);
 ```
+
+[local\_alloc\_flags.md](../memory/local\_alloc\_flags.md "mention")
