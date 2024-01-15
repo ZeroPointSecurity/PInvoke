@@ -80,6 +80,7 @@
 * [LocalAlloc](kernel32/localalloc.md)
 * [HeapFree](kernel32/heapfree.md)
 * [LocalFree](kernel32/localfree.md)
+* [GetProcessHeap](kernel32/getprocessheap.md)
 
 ## NTDLL
 
