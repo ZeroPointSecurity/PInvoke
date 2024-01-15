@@ -28,6 +28,7 @@
 * [RtlEncryptMemory](advapi32/rtlencryptmemory.md)
 * [SetTokenInformation](advapi32/settokeninformation.md)
 * [StartService](advapi32/startservice.md)
+* [LsaNtStatusToWinError](advapi32/lsantstatustowinerror.md)
 
 ## KERNEL32
 
@@ -93,6 +94,9 @@
 * [AcquireCredentialsHandle](secur32/acquirecredentialshandle.md)
 * [InitializeSecurityContext](secur32/initializesecuritycontext.md)
 * [DeleteSecurityContext](secur32/deletesecuritycontext.md)
+* [LsaConnectUntrusted](secur32/lsaconnectuntrusted.md)
+* [LsaFreeReturnBuffer](secur32/lsafreereturnbuffer.md)
+* [LsaFreeReturnBuffer](secur32/lsafreereturnbuffer-1.md)
 
 ## NTDLL
 
