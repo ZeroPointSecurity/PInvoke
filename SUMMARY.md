@@ -55,12 +55,17 @@
 * [GetCurrentThread](kernel32/getcurrentthread.md)
 * [GetCurrentThreadId](kernel32/getcurrentthreadid.md)
 * [GetModuleHandle](kernel32/getmodulehandle.md)
+* [GetProcessHeap](kernel32/getprocessheap.md)
 * [GetStdHandle](kernel32/getstdhandle.md)
 * [GetThreadInformation](kernel32/getthreadinformation.md)
+* [HeapAlloc](kernel32/heapalloc.md)
+* [HeapFree](kernel32/heapfree.md)
 * [InitializeProcThreadAttributeList](kernel32/initializeprocthreadattributelist.md)
 * [IsWow64Process](kernel32/iswow64process.md)
 * [LoadLibrary](kernel32/loadlibrary.md)
 * [LoadLibraryEx](kernel32/loadlibraryex.md)
+* [LocalAlloc](kernel32/localalloc.md)
+* [LocalFree](kernel32/localfree.md)
 * [OpenProcess](kernel32/openprocess.md)
 * [PeekNamedPipe](kernel32/peeknamedpipe.md)
 * [QueueUserAPC](kernel32/queueuserapc.md)
@@ -76,11 +81,6 @@
 * [VirtualProtect](kernel32/virtualprotect.md)
 * [VirtualProtectEx](kernel32/virtualprotectex.md)
 * [WriteProcessMemory](kernel32/writeprocessmemory.md)
-* [HeapAlloc](kernel32/heapalloc.md)
-* [LocalAlloc](kernel32/localalloc.md)
-* [HeapFree](kernel32/heapfree.md)
-* [LocalFree](kernel32/localfree.md)
-* [GetProcessHeap](kernel32/getprocessheap.md)
 
 ## NTDLL
 
@@ -110,6 +110,7 @@
 * [CLIENT\_ID](foundation/client\_id.md)
 * [DUPLICATE\_HANDLE\_OPTIONS](foundation/duplicate\_handle\_options.md)
 * [HANDLE](foundation/handle.md)
+* [HLOCAL](foundation/hlocal.md)
 * [HMODULE](foundation/hmodule.md)
 * [LUID](foundation/luid.md)
 * [NTSTATUS](foundation/ntstatus.md)
@@ -119,8 +120,6 @@
 * [PWSTR](foundation/pwstr.md)
 * [PSID](foundation/psid.md)
 * [UNICODE\_STRING](foundation/unicode\_string.md)
-* [IO\_STATUS\_BLOCK](foundation/io\_status\_block.md)
-* [HLOCAL](foundation/hlocal.md)
 
 ## THREADING
 
@@ -165,11 +164,11 @@
 
 ## MEMORY
 
+* [HEAP\_FLAGS](memory/heap\_flags.md)
+* [LOCAL\_ALLOC\_FLAGS](memory/local\_alloc\_flags.md)
 * [PAGE\_PROTECTION\_FLAGS](memory/page\_protection\_flags.md)
 * [VIRTUAL\_ALLOCATION\_TYPE](memory/virtual\_allocation\_type.md)
 * [VIRTUAL\_FREE\_TYPE](memory/virtual\_free\_type.md)
-* [HEAP\_FLAGS](memory/heap\_flags.md)
-* [LOCAL\_ALLOC\_FLAGS](memory/local\_alloc\_flags.md)
 
 ## FILESYSTEM
 
