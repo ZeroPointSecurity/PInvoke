@@ -55,12 +55,17 @@
 * [GetCurrentThread](kernel32/getcurrentthread.md)
 * [GetCurrentThreadId](kernel32/getcurrentthreadid.md)
 * [GetModuleHandle](kernel32/getmodulehandle.md)
+* [GetProcessHeap](kernel32/getprocessheap.md)
 * [GetStdHandle](kernel32/getstdhandle.md)
 * [GetThreadInformation](kernel32/getthreadinformation.md)
+* [HeapAlloc](kernel32/heapalloc.md)
+* [HeapFree](kernel32/heapfree.md)
 * [InitializeProcThreadAttributeList](kernel32/initializeprocthreadattributelist.md)
 * [IsWow64Process](kernel32/iswow64process.md)
 * [LoadLibrary](kernel32/loadlibrary.md)
 * [LoadLibraryEx](kernel32/loadlibraryex.md)
+* [LocalAlloc](kernel32/localalloc.md)
+* [LocalFree](kernel32/localfree.md)
 * [OpenProcess](kernel32/openprocess.md)
 * [PeekNamedPipe](kernel32/peeknamedpipe.md)
 * [QueueUserAPC](kernel32/queueuserapc.md)
@@ -76,8 +81,18 @@
 * [VirtualProtect](kernel32/virtualprotect.md)
 * [VirtualProtectEx](kernel32/virtualprotectex.md)
 * [WriteProcessMemory](kernel32/writeprocessmemory.md)
-* [HeapAlloc](kernel32/heapalloc.md)
-* [LocalAlloc](kernel32/localalloc.md)
+
+## SECUR32
+
+* [LsaLookupAuthenticationPackage](secur32/lsalookupauthenticationpackage.md)
+* [LsaCallAuthenticationPackage](secur32/lsacallauthenticationpackage.md)
+* [LsaRegisterLogonProcess](secur32/lsaregisterlogonprocess.md)
+* [LsaDeregisterLogonProcess](secur32/lsaderegisterlogonprocess.md)
+* [LsaEnumerateLogonSessions](secur32/lsaenumeratelogonsessions.md)
+* [LsaGetLogonSessionData](secur32/lsagetlogonsessiondata.md)
+* [AcquireCredentialsHandle](secur32/acquirecredentialshandle.md)
+* [InitializeSecurityContext](secur32/initializesecuritycontext.md)
+* [DeleteSecurityContext](secur32/deletesecuritycontext.md)
 
 ## NTDLL
 
@@ -107,6 +122,7 @@
 * [CLIENT\_ID](foundation/client\_id.md)
 * [DUPLICATE\_HANDLE\_OPTIONS](foundation/duplicate\_handle\_options.md)
 * [HANDLE](foundation/handle.md)
+* [HLOCAL](foundation/hlocal.md)
 * [HMODULE](foundation/hmodule.md)
 * [LUID](foundation/luid.md)
 * [NTSTATUS](foundation/ntstatus.md)
@@ -116,8 +132,7 @@
 * [PWSTR](foundation/pwstr.md)
 * [PSID](foundation/psid.md)
 * [UNICODE\_STRING](foundation/unicode\_string.md)
-* [IO\_STATUS\_BLOCK](foundation/io\_status\_block.md)
-* [HLOCAL](foundation/hlocal.md)
+* [PSTR](foundation/pstr.md)
 
 ## THREADING
 
@@ -151,6 +166,7 @@
 * [TOKEN\_PRIVILEGES](security/token\_privileges.md)
 * [TOKEN\_PRIVILEGES\_ATTRIBUTES](security/token\_privileges\_attributes.md)
 * [TOKEN\_TYPE](security/token\_type.md)
+* [SecHandle](security/sechandle.md)
 
 ## SERVICES
 
@@ -162,11 +178,11 @@
 
 ## MEMORY
 
+* [HEAP\_FLAGS](memory/heap\_flags.md)
+* [LOCAL\_ALLOC\_FLAGS](memory/local\_alloc\_flags.md)
 * [PAGE\_PROTECTION\_FLAGS](memory/page\_protection\_flags.md)
 * [VIRTUAL\_ALLOCATION\_TYPE](memory/virtual\_allocation\_type.md)
 * [VIRTUAL\_FREE\_TYPE](memory/virtual\_free\_type.md)
-* [HEAP\_FLAGS](memory/heap\_flags.md)
-* [LOCAL\_ALLOC\_FLAGS](memory/local\_alloc\_flags.md)
 
 ## FILESYSTEM
 
@@ -199,3 +215,14 @@
 ## CONSOLE
 
 * [STD\_HANDLE](console/std\_handle.md)
+
+## AUTHENTICATION
+
+* [LSA\_STRING](authentication/lsa\_string.md)
+* [LSA\_UNICODE\_STRING](authentication/lsa\_unicode\_string.md)
+* [SECURITY\_LOGON\_SESSION\_DATA](authentication/security\_logon\_session\_data.md)
+* [SECPKG\_CRED](authentication/secpkg\_cred.md)
+* [SEC\_GET\_KEY\_FN](authentication/sec\_get\_key\_fn.md)
+* [ISC\_REQ\_FLAGS](authentication/isc\_req\_flags.md)
+* [SecBufferDesc](authentication/secbufferdesc.md)
+* [SecBuffer](authentication/secbuffer.md)
