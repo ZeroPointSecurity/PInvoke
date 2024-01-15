@@ -76,6 +76,7 @@
 * [VirtualProtect](kernel32/virtualprotect.md)
 * [VirtualProtectEx](kernel32/virtualprotectex.md)
 * [WriteProcessMemory](kernel32/writeprocessmemory.md)
+* [HeapAlloc](kernel32/heapalloc.md)
 
 ## NTDLL
 
@@ -162,6 +163,7 @@
 * [PAGE\_PROTECTION\_FLAGS](memory/page\_protection\_flags.md)
 * [VIRTUAL\_ALLOCATION\_TYPE](memory/virtual\_allocation\_type.md)
 * [VIRTUAL\_FREE\_TYPE](memory/virtual\_free\_type.md)
+* [HEAP\_FLAGS](memory/heap\_flags.md)
 
 ## FILESYSTEM
 
