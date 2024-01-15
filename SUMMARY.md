@@ -77,6 +77,7 @@
 * [VirtualProtectEx](kernel32/virtualprotectex.md)
 * [WriteProcessMemory](kernel32/writeprocessmemory.md)
 * [HeapAlloc](kernel32/heapalloc.md)
+* [LocalAlloc](kernel32/localalloc.md)
 
 ## NTDLL
 
@@ -116,6 +117,7 @@
 * [PSID](foundation/psid.md)
 * [UNICODE\_STRING](foundation/unicode\_string.md)
 * [IO\_STATUS\_BLOCK](foundation/io\_status\_block.md)
+* [HLOCAL](foundation/hlocal.md)
 
 ## THREADING
 
@@ -164,6 +166,7 @@
 * [VIRTUAL\_ALLOCATION\_TYPE](memory/virtual\_allocation\_type.md)
 * [VIRTUAL\_FREE\_TYPE](memory/virtual\_free\_type.md)
 * [HEAP\_FLAGS](memory/heap\_flags.md)
+* [LOCAL\_ALLOC\_FLAGS](memory/local\_alloc\_flags.md)
 
 ## FILESYSTEM
 
