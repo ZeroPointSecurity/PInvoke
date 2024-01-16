@@ -234,3 +234,34 @@
 * [ISC\_REQ\_FLAGS](authentication/isc\_req\_flags.md)
 * [SecBufferDesc](authentication/secbufferdesc.md)
 * [SecBuffer](authentication/secbuffer.md)
+
+## DEBUG
+
+* [IMAGE\_DATA\_DIRECTORY](debug/image\_data\_directory.md)
+* [IMAGE\_OPTIONAL\_HEADER32](debug/image\_optional\_header32.md)
+* [IMAGE\_OPTIONAL\_HEADER\_MAGIC](debug/image\_optional\_header\_magic.md)
+* [IMAGE\_SUBSYSTEM](debug/image\_subsystem.md)
+* [IMAGE\_DLL\_CHARACTERISTICS](debug/image\_dll\_characteristics.md)
+* [IMAGE\_OPTIONAL\_HEADER64](debug/image\_optional\_header64.md)
+* [IMAGE\_FILE\_HEADER](debug/image\_file\_header.md)
+* [IMAGE\_FILE\_CHARACTERISTICS](debug/image\_file\_characteristics.md)
+* [IMAGE\_SECTION\_HEADER](debug/image\_section\_header.md)
+* [IMAGE\_SECTION\_CHARACTERISTICS](debug/image\_section\_characteristics.md)
+
+## SYSTEM INFORMATION
+
+* [IMAGE\_FILE\_MACHINE](system-information/image\_file\_machine.md)
+
+## SYSTEM SERVICES
+
+* [IMAGE\_BASE\_RELOCATION](system-services/image\_base\_relocation.md)
+
+## WINDOWS PROGRAMMING
+
+* [IMAGE\_THUNK\_DATA32](windows-programming/image\_thunk\_data32.md)
+* [IMAGE\_THUNK\_DATA64](windows-programming/image\_thunk\_data64.md)
+* [LDR\_DATA\_TABLE\_ENTRY](windows-programming/ldr\_data\_table\_entry.md)
+
+## KERNEL
+
+* [LIST\_ENTRY](kernel/list\_entry.md)
