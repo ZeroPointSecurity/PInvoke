@@ -276,7 +276,6 @@
 * [KERB\_PROTOCOL\_MESSAGE\_TYPE](identity/kerb\_protocol\_message\_type.md)
 * [LSA\_UNICODE\_STRING](identity/lsa\_unicode\_string.md)
 * [KERB\_CRYPTO\_KEY\_TYPE](identity/kerb\_crypto\_key\_type.md)
-* [KERB\_CRYPTO\_KEY\_TYPE](identity/kerb\_crypto\_key\_type-1.md)
 * [KERB\_TICKET\_FLAGS](identity/kerb\_ticket\_flags.md)
 * [KERB\_QUERY\_TKT\_CACHE\_REQUEST](identity/kerb\_query\_tkt\_cache\_request.md)
 * [KERB\_QUERY\_TKT\_CACHE\_RESPONSE](identity/kerb\_query\_tkt\_cache\_response.md)
