@@ -265,3 +265,20 @@
 ## KERNEL
 
 * [LIST\_ENTRY](kernel/list\_entry.md)
+
+## IDENTITY
+
+* [KERB\_CRYPTO\_KEY](identity/kerb\_crypto\_key.md)
+* [KERB\_EXTERNAL\_NAME](identity/kerb\_external\_name.md)
+* [KERB\_EXTERNAL\_TICKET](identity/kerb\_external\_ticket.md)
+* [KERB\_RETRIEVE\_TKT\_RESPONSE](identity/kerb\_retrieve\_tkt\_response.md)
+* [KERB\_RETRIEVE\_TKT\_REQUEST](identity/kerb\_retrieve\_tkt\_request.md)
+* [KERB\_PROTOCOL\_MESSAGE\_TYPE](identity/kerb\_protocol\_message\_type.md)
+* [LSA\_UNICODE\_STRING](identity/lsa\_unicode\_string.md)
+* [KERB\_CRYPTO\_KEY\_TYPE](identity/kerb\_crypto\_key\_type.md)
+* [KERB\_CRYPTO\_KEY\_TYPE](identity/kerb\_crypto\_key\_type-1.md)
+* [KERB\_TICKET\_FLAGS](identity/kerb\_ticket\_flags.md)
+* [KERB\_QUERY\_TKT\_CACHE\_REQUEST](identity/kerb\_query\_tkt\_cache\_request.md)
+* [KERB\_QUERY\_TKT\_CACHE\_RESPONSE](identity/kerb\_query\_tkt\_cache\_response.md)
+* [KERB\_TICKET\_CACHE\_INFO](identity/kerb\_ticket\_cache\_info.md)
+* [KERB\_TICKET\_CACHE\_INFO\_EX](identity/kerb\_ticket\_cache\_info\_ex.md)
