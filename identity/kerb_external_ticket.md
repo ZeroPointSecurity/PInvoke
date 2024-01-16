@@ -1,7 +1,7 @@
 # KERB\_EXTERNAL\_TICKET
 
 ```csharp
-public partial struct KERB_EXTERNAL_TICKET
+public struct KERB_EXTERNAL_TICKET
 {
     public unsafe KERB_EXTERNAL_NAME* ServiceName;
     public unsafe KERB_EXTERNAL_NAME* TargetName;
