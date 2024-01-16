@@ -1,6 +1,7 @@
 # KERB\_TICKET\_FLAGS
 
 ```csharp
+[Flags]
 public enum KERB_TICKET_FLAGS : uint
 {
     KERB_TICKET_FLAGS_forwardable = 0x40000000,
