@@ -173,6 +173,8 @@
 * [TOKEN\_PRIVILEGES\_ATTRIBUTES](security/token\_privileges\_attributes.md)
 * [TOKEN\_TYPE](security/token\_type.md)
 * [SecHandle](security/sechandle.md)
+* [TOKEN\_MANDATORY\_LABEL](security/token\_mandatory\_label.md)
+* [TOKEN\_USER](security/token\_user.md)
 
 ## SERVICES
 
