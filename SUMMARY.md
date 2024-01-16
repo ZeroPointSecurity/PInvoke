@@ -29,6 +29,8 @@
 * [SetTokenInformation](advapi32/settokeninformation.md)
 * [StartService](advapi32/startservice.md)
 * [LsaNtStatusToWinError](advapi32/lsantstatustowinerror.md)
+* [GetSidSubAuthorityCount](advapi32/getsidsubauthoritycount.md)
+* [GetSidSubAuthority](advapi32/getsidsubauthority.md)
 
 ## KERNEL32
 
