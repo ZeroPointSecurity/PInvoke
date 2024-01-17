@@ -139,6 +139,7 @@
 * [PSID](foundation/psid.md)
 * [UNICODE\_STRING](foundation/unicode\_string.md)
 * [PSTR](foundation/pstr.md)
+* [PCSTR](foundation/pcstr.md)
 
 ## THREADING
 
