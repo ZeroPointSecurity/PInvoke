@@ -269,6 +269,7 @@
 
 ## IDENTITY
 
+* [KERB\_ETYPE](identity/kerb\_etype.md)
 * [KERB\_CRYPTO\_KEY](identity/kerb\_crypto\_key.md)
 * [KERB\_EXTERNAL\_NAME](identity/kerb\_external\_name.md)
 * [KERB\_EXTERNAL\_TICKET](identity/kerb\_external\_ticket.md)
