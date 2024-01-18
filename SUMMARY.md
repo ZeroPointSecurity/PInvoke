@@ -283,3 +283,5 @@
 * [KERB\_QUERY\_TKT\_CACHE\_RESPONSE](identity/kerb\_query\_tkt\_cache\_response.md)
 * [KERB\_TICKET\_CACHE\_INFO](identity/kerb\_ticket\_cache\_info.md)
 * [KERB\_TICKET\_CACHE\_INFO\_EX](identity/kerb\_ticket\_cache\_info\_ex.md)
+* [KERB\_SUBMIT\_TKT\_REQUEST](identity/kerb\_submit\_tkt\_request.md)
+* [KERB\_CRYPTO\_KEY32](identity/kerb\_crypto\_key32.md)
