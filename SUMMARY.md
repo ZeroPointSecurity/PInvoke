@@ -31,6 +31,7 @@
 * [LsaNtStatusToWinError](advapi32/lsantstatustowinerror.md)
 * [GetSidSubAuthorityCount](advapi32/getsidsubauthoritycount.md)
 * [GetSidSubAuthority](advapi32/getsidsubauthority.md)
+* [CreateProcessWithLogon](advapi32/createprocesswithlogon.md)
 
 ## KERNEL32
 
