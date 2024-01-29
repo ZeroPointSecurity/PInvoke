@@ -113,6 +113,7 @@
 * [NtUnmapViewOfSection](ntdll/ntunmapviewofsection.md)
 * [NtWriteVirtualMemory](ntdll/ntwritevirtualmemory.md)
 * [RtlInitUnicodeString](ntdll/rtlinitunicodestring.md)
+* [NtFreeVirtualMemory](ntdll/ntfreevirtualmemory.md)
 
 ## AMSI
 
