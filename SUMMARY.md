@@ -10,8 +10,8 @@
 * [CloseServiceHandle](advapi32/closeservicehandle.md)
 * [ControlService](advapi32/controlservice.md)
 * [CreateProcessAsUserW](advapi32/createprocessasuser.md)
-* [CreateProcessWithToken](advapi32/createprocesswithtoken.md)
-* [CreateService](advapi32/createservice.md)
+* [CreateProcessWithTokenW](advapi32/createprocesswithtoken.md)
+* [CreateServiceW](advapi32/createservice.md)
 * [CryptDecrypt](advapi32/cryptdecrypt.md)
 * [CryptEncrypt](advapi32/cryptencrypt.md)
 * [DeleteService](advapi32/deleteservice.md)
@@ -34,6 +34,7 @@
 * [CreateProcessWithLogon](advapi32/createprocesswithlogon.md)
 * [ChangeServiceConfigA](advapi32/changeserviceconfiga.md)
 * [CreateProcessAsUserA](advapi32/createprocessasusera.md)
+* [CreateServiceA](advapi32/createservicea.md)
 
 ## KERNEL32
 

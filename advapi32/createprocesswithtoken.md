@@ -1,9 +1,9 @@
-# CreateProcessWithToken
+# CreateProcessWithTokenW
 
 ```csharp
-[DllImport("ADVAPI32.dll", ExactSpelling = true, EntryPoint = "CreateProcessWithTokenW", SetLastError = true)]
+[DllImport("ADVAPI32.dll", ExactSpelling = true, SetLastError = true)]
 [DefaultDllImportSearchPaths(DllImportSearchPath.System32)]
-public static extern unsafe BOOL CreateProcessWithToken(
+public static extern unsafe BOOL CreateProcessWithTokenW(
     HANDLE hToken,
     CREATE_PROCESS_LOGON_FLAGS dwLogonFlags,
     PCWSTR lpApplicationName,
