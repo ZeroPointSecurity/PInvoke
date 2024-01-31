@@ -76,7 +76,7 @@
 * [InitializeProcThreadAttributeList](kernel32/initializeprocthreadattributelist.md)
 * [IsWow64Process](kernel32/iswow64process.md)
 * [LoadLibraryW](kernel32/loadlibrary.md)
-* [LoadLibraryEx](kernel32/loadlibraryex.md)
+* [LoadLibraryExW](kernel32/loadlibraryex.md)
 * [LocalAlloc](kernel32/localalloc.md)
 * [LocalFree](kernel32/localfree.md)
 * [OpenProcess](kernel32/openprocess.md)
@@ -100,6 +100,7 @@
 * [CreateProcessA](kernel32/createprocessa.md)
 * [GetModuleHandleA](kernel32/getmodulehandlea.md)
 * [LoadLibraryA](kernel32/loadlibrarya.md)
+* [LoadLibraryExA](kernel32/loadlibraryexa.md)
 
 ## SECUR32
 
