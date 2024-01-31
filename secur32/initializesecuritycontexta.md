@@ -1,12 +1,12 @@
-# InitializeSecurityContext
+# InitializeSecurityContextA
 
 ```csharp
-[DllImport("SECUR32.dll", ExactSpelling = true, EntryPoint = "InitializeSecurityContextW")]
+[DllImport("SECUR32.dll", ExactSpelling = true)]
 [DefaultDllImportSearchPaths(DllImportSearchPath.System32)]
-public static extern unsafe HRESULT InitializeSecurityContext(
+public static extern unsafe HRESULT InitializeSecurityContextA(
     [Optional] SecHandle* phCredential,
     [Optional] SecHandle* phContext,
-    [Optional] ushort* pszTargetName,
+    [Optional] sbyte* pszTargetName,
     ISC_REQ_FLAGS fContextReq,
     uint Reserved1,
     uint TargetDataRep,
@@ -17,3 +17,9 @@ public static extern unsafe HRESULT InitializeSecurityContext(
     uint* pfContextAttr,
     [Optional] long* ptsExpiry);
 ```
+
+[sechandle.md](../security/sechandle.md "mention")
+
+[isc\_req\_flags.md](../authentication/isc\_req\_flags.md "mention")
+
+[secbufferdesc.md](../authentication/secbufferdesc.md "mention")

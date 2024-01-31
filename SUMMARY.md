@@ -111,12 +111,13 @@
 * [LsaEnumerateLogonSessions](secur32/lsaenumeratelogonsessions.md)
 * [LsaGetLogonSessionData](secur32/lsagetlogonsessiondata.md)
 * [AcquireCredentialsHandleW](secur32/acquirecredentialshandlew.md)
-* [InitializeSecurityContext](secur32/initializesecuritycontext.md)
+* [InitializeSecurityContextW](secur32/initializesecuritycontextw.md)
 * [DeleteSecurityContext](secur32/deletesecuritycontext.md)
 * [LsaConnectUntrusted](secur32/lsaconnectuntrusted.md)
 * [LsaFreeReturnBuffer](secur32/lsafreereturnbuffer.md)
 * [LsaFreeReturnBuffer](secur32/lsafreereturnbuffer-1.md)
 * [AcquireCredentialsHandleA](secur32/acquirecredentialshandlea.md)
+* [InitializeSecurityContextA](secur32/initializesecuritycontexta.md)
 
 ## NTDLL
 
