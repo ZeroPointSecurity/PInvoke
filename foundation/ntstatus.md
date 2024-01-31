@@ -37,5 +37,7 @@ public readonly struct NTSTATUS : IEquatable<NTSTATUS>
         Warning,
         Error,
     }
+    
+    public static readonly NTSTATUS STATUS_SUCCESS = (NTSTATUS)0;
 }
 ```
