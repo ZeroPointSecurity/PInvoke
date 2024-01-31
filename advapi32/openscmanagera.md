@@ -1,10 +1,10 @@
-# OpenSCManagerW
+# OpenSCManagerA
 
 ```csharp
 [DllImport("ADVAPI32.dll", ExactSpelling = true, SetLastError = true)]
 [DefaultDllImportSearchPaths(DllImportSearchPath.System32)]
-public static extern SC_HANDLE OpenSCManagerW(
-    PCWSTR lpMachineName,
-    PCWSTR lpDatabaseName,
+public static extern SC_HANDLE OpenSCManagerA(
+    PCSTR lpMachineName,
+    PCSTR lpDatabaseName,
     uint dwDesiredAccess);
 ```

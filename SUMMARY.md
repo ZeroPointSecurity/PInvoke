@@ -21,7 +21,7 @@
 * [ImpersonateNamedPipeClient](advapi32/impersonatenamedpipeclient.md)
 * [LogonUserW](advapi32/logonuser.md)
 * [OpenProcessToken](advapi32/openprocesstoken.md)
-* [OpenSCManager](advapi32/openscmanager.md)
+* [OpenSCManagerW](advapi32/openscmanager.md)
 * [OpenService](advapi32/openservice.md)
 * [OpenThreadToken](advapi32/openthreadtoken.md)
 * [RtlDecryptMemory](advapi32/rtldecryptmemory.md)
@@ -38,6 +38,7 @@
 * [LogonUserA](advapi32/logonusera.md)
 * [LogonUserExW](advapi32/logonuserexw.md)
 * [LogonUserExA](advapi32/logonuserexa.md)
+* [OpenSCManagerA](advapi32/openscmanagera.md)
 
 ## KERNEL32
 
