@@ -1,9 +1,9 @@
-# AcquireCredentialsHandle
+# AcquireCredentialsHandleW
 
 ```csharp
-[DllImport("SECUR32.dll", ExactSpelling = true, EntryPoint = "AcquireCredentialsHandleW")]
+[DllImport("SECUR32.dll", ExactSpelling = true)]
 [DefaultDllImportSearchPaths(DllImportSearchPath.System32)]
-public static extern unsafe HRESULT AcquireCredentialsHandle(
+public static extern unsafe HRESULT AcquireCredentialsHandleW(
     PWSTR pszPrincipal,
     PWSTR pszPackage,
     SECPKG_CRED fCredentialUse,
