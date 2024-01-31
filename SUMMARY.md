@@ -6,7 +6,7 @@
 
 * [AdjustTokenGroups](advapi32/adjusttokengroups.md)
 * [AdjustTokenPrivileges](advapi32/adjusttokenprivileges.md)
-* [ChangeServiceConfig](advapi32/changeserviceconfig.md)
+* [ChangeServiceConfigW](advapi32/changeserviceconfig.md)
 * [CloseServiceHandle](advapi32/closeservicehandle.md)
 * [ControlService](advapi32/controlservice.md)
 * [CreateProcessAsUser](advapi32/createprocessasuser.md)
@@ -32,6 +32,7 @@
 * [GetSidSubAuthorityCount](advapi32/getsidsubauthoritycount.md)
 * [GetSidSubAuthority](advapi32/getsidsubauthority.md)
 * [CreateProcessWithLogon](advapi32/createprocesswithlogon.md)
+* [ChangeServiceConfigA](advapi32/changeserviceconfiga.md)
 
 ## KERNEL32
 

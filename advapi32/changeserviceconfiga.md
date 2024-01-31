@@ -1,20 +1,20 @@
-# ChangeServiceConfigW
+# ChangeServiceConfigA
 
 ```csharp
 [DllImport("ADVAPI32.dll", ExactSpelling = true, SetLastError = true)]
 [DefaultDllImportSearchPaths(DllImportSearchPath.System32)]
-public static extern unsafe BOOL ChangeServiceConfigW(
+public static extern unsafe BOOL ChangeServiceConfigA(
     SC_HANDLE hService,
     ENUM_SERVICE_TYPE dwServiceType,
     SERVICE_START_TYPE dwStartType,
     SERVICE_ERROR dwErrorControl,
-    PCWSTR lpBinaryPathName,
-    PCWSTR lpLoadOrderGroup,
+    PCSTR lpBinaryPathName,
+    PCSTR lpLoadOrderGroup,
     [Optional] uint* lpdwTagId,
-    PCWSTR lpDependencies,
-    PCWSTR lpServiceStartName,
-    PCWSTR lpPassword,
-    PCWSTR lpDisplayName);
+    PCSTR lpDependencies,
+    PCSTR lpServiceStartName,
+    PCSTR lpPassword,
+    PCSTR lpDisplayName);
 ```
 
 [sc\_handle.md](../security/sc\_handle.md "mention")
