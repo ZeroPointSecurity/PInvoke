@@ -27,7 +27,7 @@
 * [RtlDecryptMemory](advapi32/rtldecryptmemory.md)
 * [RtlEncryptMemory](advapi32/rtlencryptmemory.md)
 * [SetTokenInformation](advapi32/settokeninformation.md)
-* [StartService](advapi32/startservice.md)
+* [StartServiceW](advapi32/startservice.md)
 * [LsaNtStatusToWinError](advapi32/lsantstatustowinerror.md)
 * [GetSidSubAuthorityCount](advapi32/getsidsubauthoritycount.md)
 * [GetSidSubAuthority](advapi32/getsidsubauthority.md)
@@ -40,6 +40,7 @@
 * [LogonUserExA](advapi32/logonuserexa.md)
 * [OpenSCManagerA](advapi32/openscmanagera.md)
 * [OpenServiceA](advapi32/openservicea.md)
+* [StartServiceA](advapi32/startservicea.md)
 
 ## KERNEL32
 
