@@ -67,7 +67,7 @@
 * [GetCurrentProcessId](kernel32/getcurrentprocessid.md)
 * [GetCurrentThread](kernel32/getcurrentthread.md)
 * [GetCurrentThreadId](kernel32/getcurrentthreadid.md)
-* [GetModuleHandle](kernel32/getmodulehandle.md)
+* [GetModuleHandleW](kernel32/getmodulehandle.md)
 * [GetProcessHeap](kernel32/getprocessheap.md)
 * [GetStdHandle](kernel32/getstdhandle.md)
 * [GetThreadInformation](kernel32/getthreadinformation.md)
@@ -98,6 +98,7 @@
 * [CreateMailslotA](kernel32/createmailslota.md)
 * [CreateNamedPipeA](kernel32/createnamedpipea.md)
 * [CreateProcessA](kernel32/createprocessa.md)
+* [GetModuleHandleA](kernel32/getmodulehandlea.md)
 
 ## SECUR32
 
