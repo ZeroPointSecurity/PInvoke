@@ -51,7 +51,7 @@
 * [CreateFiber](kernel32/createfiber.md)
 * [CreateFileW](kernel32/createfile.md)
 * [CreateMailslotW](kernel32/createmailslot.md)
-* [CreateNamedPipe](kernel32/createnamedpipe.md)
+* [CreateNamedPipeW](kernel32/createnamedpipe.md)
 * [CreatePipe](kernel32/createpipe.md)
 * [CreateProcess](kernel32/createprocess.md)
 * [CreateRemoteThread](kernel32/createremotethread.md)
@@ -96,6 +96,7 @@
 * [WriteProcessMemory](kernel32/writeprocessmemory.md)
 * [CreateFileA](kernel32/createfilea.md)
 * [CreateMailslotA](kernel32/createmailslota.md)
+* [CreateNamedPipeA](kernel32/createnamedpipea.md)
 
 ## SECUR32
 
