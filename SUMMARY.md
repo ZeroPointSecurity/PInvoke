@@ -19,7 +19,7 @@
 * [GetTokenInformation](advapi32/gettokeninformation.md)
 * [ImpersonateLoggedOnUser](advapi32/impersonateloggedonuser.md)
 * [ImpersonateNamedPipeClient](advapi32/impersonatenamedpipeclient.md)
-* [LogonUser](advapi32/logonuser.md)
+* [LogonUserW](advapi32/logonuser.md)
 * [OpenProcessToken](advapi32/openprocesstoken.md)
 * [OpenSCManager](advapi32/openscmanager.md)
 * [OpenService](advapi32/openservice.md)
@@ -35,6 +35,9 @@
 * [ChangeServiceConfigA](advapi32/changeserviceconfiga.md)
 * [CreateProcessAsUserA](advapi32/createprocessasusera.md)
 * [CreateServiceA](advapi32/createservicea.md)
+* [LogonUserA](advapi32/logonusera.md)
+* [LogonUserExW](advapi32/logonuserexw.md)
+* [LogonUserExA](advapi32/logonuserexa.md)
 
 ## KERNEL32
 
@@ -185,6 +188,7 @@
 * [TOKEN\_MANDATORY\_LABEL](security/token\_mandatory\_label.md)
 * [TOKEN\_USER](security/token\_user.md)
 * [TOKEN\_STATISTICS](security/token\_statistics.md)
+* [QUOTA\_LIMITS](security/quota\_limits.md)
 
 ## SERVICES
 

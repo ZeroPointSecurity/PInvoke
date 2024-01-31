@@ -1,12 +1,12 @@
-# LogonUserW
+# LogonUserA
 
 ```csharp
 [DllImport("ADVAPI32.dll", ExactSpelling = true, SetLastError = true)]
 [DefaultDllImportSearchPaths(DllImportSearchPath.System32)]
-public static extern unsafe BOOL LogonUserW(
-    PCWSTR lpszUsername,
-    PCWSTR lpszDomain,
-    PCWSTR lpszPassword,
+public static extern unsafe BOOL LogonUserA(
+    PCSTR lpszUsername,
+    PCSTR lpszDomain,
+    PCSTR lpszPassword,
     LOGON32_LOGON dwLogonType,
     LOGON32_PROVIDER dwLogonProvider,
     HANDLE* phToken);
