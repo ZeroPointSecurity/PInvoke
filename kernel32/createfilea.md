@@ -1,10 +1,10 @@
-# CreateFileW
+# CreateFileA
 
 ```csharp
 [DllImport("KERNEL32.dll", ExactSpelling = true, SetLastError = true)]
 [DefaultDllImportSearchPaths(DllImportSearchPath.System32)]
-public static extern unsafe HANDLE CreateFileW(
-    PCWSTR lpFileName,
+public static extern unsafe HANDLE CreateFileA(
+    PCSTR lpFileName,
     uint dwDesiredAccess,
     FILE_SHARE_MODE dwShareMode,
     [Optional] SECURITY_ATTRIBUTES* lpSecurityAttributes,

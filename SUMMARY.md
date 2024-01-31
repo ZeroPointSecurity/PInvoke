@@ -49,7 +49,7 @@
 * [ConvertFiberToThread](kernel32/convertfibertothread.md)
 * [ConvertThreadToFiber](kernel32/convertthreadtofiber.md)
 * [CreateFiber](kernel32/createfiber.md)
-* [CreateFile](kernel32/createfile.md)
+* [CreateFileW](kernel32/createfile.md)
 * [CreateMailslot](kernel32/createmailslot.md)
 * [CreateNamedPipe](kernel32/createnamedpipe.md)
 * [CreatePipe](kernel32/createpipe.md)
@@ -94,6 +94,7 @@
 * [VirtualProtect](kernel32/virtualprotect.md)
 * [VirtualProtectEx](kernel32/virtualprotectex.md)
 * [WriteProcessMemory](kernel32/writeprocessmemory.md)
+* [CreateFileA](kernel32/createfilea.md)
 
 ## SECUR32
 
