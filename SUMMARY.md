@@ -180,6 +180,7 @@
 * [SecHandle](security/sechandle.md)
 * [TOKEN\_MANDATORY\_LABEL](security/token\_mandatory\_label.md)
 * [TOKEN\_USER](security/token\_user.md)
+* [TOKEN\_STATISTICS](security/token\_statistics.md)
 
 ## SERVICES
 
