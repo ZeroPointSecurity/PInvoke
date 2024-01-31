@@ -31,7 +31,7 @@
 * [LsaNtStatusToWinError](advapi32/lsantstatustowinerror.md)
 * [GetSidSubAuthorityCount](advapi32/getsidsubauthoritycount.md)
 * [GetSidSubAuthority](advapi32/getsidsubauthority.md)
-* [CreateProcessWithLogon](advapi32/createprocesswithlogon.md)
+* [CreateProcessWithLogonW](advapi32/createprocesswithlogonw.md)
 * [ChangeServiceConfigA](advapi32/changeserviceconfiga.md)
 * [CreateProcessAsUserA](advapi32/createprocessasusera.md)
 * [CreateServiceA](advapi32/createservicea.md)

@@ -1,10 +1,10 @@
-# CreateProcessWithLogon
+# CreateProcessWithLogonW
 
 ```csharp
-[DllImport("ADVAPI32.dll", ExactSpelling = true, EntryPoint = "CreateProcessWithLogonW", SetLastError = true)]
+[DllImport("ADVAPI32.dll", ExactSpelling = true, SetLastError = true)]
 [DefaultDllImportSearchPaths(DllImportSearchPath.System32)]
-public static extern unsafe BOOL CreateProcessWithLogon(
-    PCWSTR lpUsername, 
+public static extern unsafe BOOL CreateProcessWithLogonW(
+    PCWSTR lpUsername,
     PCWSTR lpDomain,
     PCWSTR lpPassword,
     CREATE_PROCESS_LOGON_FLAGS dwLogonFlags,
