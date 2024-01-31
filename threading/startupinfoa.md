@@ -1,12 +1,12 @@
-# STARTUPINFOW
+# STARTUPINFOA
 
 ```csharp
-public struct STARTUPINFOW
+public struct STARTUPINFOA
 {
     public uint cb;
-    public PWSTR lpReserved;
-    public PWSTR lpDesktop;
-    public PWSTR lpTitle;
+    public PSTR lpReserved;
+    public PSTR lpDesktop;
+    public PSTR lpTitle;
     public uint dwX;
     public uint dwY;
     public uint dwXSize;
@@ -23,5 +23,3 @@ public struct STARTUPINFOW
     public HANDLE hStdError;
 }
 ```
-
-[startupinfow\_flags.md](startupinfow\_flags.md "mention")

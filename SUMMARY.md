@@ -9,7 +9,7 @@
 * [ChangeServiceConfigW](advapi32/changeserviceconfig.md)
 * [CloseServiceHandle](advapi32/closeservicehandle.md)
 * [ControlService](advapi32/controlservice.md)
-* [CreateProcessAsUser](advapi32/createprocessasuser.md)
+* [CreateProcessAsUserW](advapi32/createprocessasuser.md)
 * [CreateProcessWithToken](advapi32/createprocesswithtoken.md)
 * [CreateService](advapi32/createservice.md)
 * [CryptDecrypt](advapi32/cryptdecrypt.md)
@@ -33,6 +33,7 @@
 * [GetSidSubAuthority](advapi32/getsidsubauthority.md)
 * [CreateProcessWithLogon](advapi32/createprocesswithlogon.md)
 * [ChangeServiceConfigA](advapi32/changeserviceconfiga.md)
+* [CreateProcessAsUserA](advapi32/createprocessasusera.md)
 
 ## KERNEL32
 
@@ -159,9 +160,10 @@
 * [PROCESS\_INFORMATION](threading/process\_information.md)
 * [STARTUPINFOEXW](threading/startupinfoexw.md)
 * [STARTUPINFOW](threading/startupinfow.md)
-* [STARTUPINFOW\_FLAGS](threading/startupinfow\_flags.md)
+* [STARTUPINFO\_FLAGS](threading/startupinfow\_flags.md)
 * [THREAD\_CREATION\_FLAGS](threading/thread\_creation\_flags.md)
 * [THREAD\_INFORMATION\_CLASS](threading/thread\_information\_class.md)
+* [STARTUPINFOA](threading/startupinfoa.md)
 
 ## SECURITY
 
