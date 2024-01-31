@@ -114,6 +114,8 @@
 * [NtWriteVirtualMemory](ntdll/ntwritevirtualmemory.md)
 * [RtlInitUnicodeString](ntdll/rtlinitunicodestring.md)
 * [NtFreeVirtualMemory](ntdll/ntfreevirtualmemory.md)
+* [LdrLoadDll](ntdll/ldrloaddll.md)
+* [LdrUnloadDll](ntdll/ldrunloaddll.md)
 
 ## AMSI
 
