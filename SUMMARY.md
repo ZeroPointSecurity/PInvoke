@@ -133,6 +133,7 @@
 * [NtFreeVirtualMemory](ntdll/ntfreevirtualmemory.md)
 * [LdrLoadDll](ntdll/ldrloaddll.md)
 * [LdrUnloadDll](ntdll/ldrunloaddll.md)
+* [NtCreateThreadEx](ntdll/ntcreatethreadex.md)
 
 ## AMSI
 
@@ -161,6 +162,8 @@
 * [UNICODE\_STRING](foundation/unicode\_string.md)
 * [PSTR](foundation/pstr.md)
 * [PCSTR](foundation/pcstr.md)
+* [USER\_THREAD\_START\_ROUTINE](foundation/user\_thread\_start\_routine.md)
+* [PS\_ATTRIBUTE\_LIST](foundation/ps\_attribute\_list.md)
 
 ## THREADING
 
