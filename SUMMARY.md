@@ -138,6 +138,7 @@
 * [NtOpenThreadToken](ntdll/ntopenthreadtoken.md)
 * [NtDuplicateToken](ntdll/ntduplicatetoken.md)
 * [NtSetInformationThread](ntdll/ntsetinformationthread.md)
+* [NtAdjustPrivilegesToken](ntdll/ntadjustprivilegestoken.md)
 
 ## AMSI
 
