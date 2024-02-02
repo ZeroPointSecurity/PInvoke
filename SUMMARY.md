@@ -136,6 +136,7 @@
 * [NtCreateThreadEx](ntdll/ntcreatethreadex.md)
 * [NtOpenProcessToken](ntdll/ntopenprocesstoken.md)
 * [NtOpenThreadToken](ntdll/ntopenthreadtoken.md)
+* [NtDuplicateToken](ntdll/ntduplicatetoken.md)
 
 ## AMSI
 
