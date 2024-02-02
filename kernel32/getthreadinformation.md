@@ -10,4 +10,4 @@ public static extern unsafe BOOL GetThreadInformation(
     uint ThreadInformationSize);
 ```
 
-[thread\_information\_class.md](../threading/thread\_information\_class.md "mention")
+[Broken link](broken-reference "mention")

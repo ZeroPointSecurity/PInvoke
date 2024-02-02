@@ -137,6 +137,7 @@
 * [NtOpenProcessToken](ntdll/ntopenprocesstoken.md)
 * [NtOpenThreadToken](ntdll/ntopenthreadtoken.md)
 * [NtDuplicateToken](ntdll/ntduplicatetoken.md)
+* [NtSetInformationThread](ntdll/ntsetinformationthread.md)
 
 ## AMSI
 
@@ -167,6 +168,7 @@
 * [PCSTR](foundation/pcstr.md)
 * [USER\_THREAD\_START\_ROUTINE](foundation/user\_thread\_start\_routine.md)
 * [PS\_ATTRIBUTE\_LIST](foundation/ps\_attribute\_list.md)
+* [THREAD\_INFORMATION\_CLASS](foundation/thread\_information\_class.md)
 
 ## THREADING
 
@@ -183,7 +185,6 @@
 * [STARTUPINFOW](threading/startupinfow.md)
 * [STARTUPINFO\_FLAGS](threading/startupinfow\_flags.md)
 * [THREAD\_CREATION\_FLAGS](threading/thread\_creation\_flags.md)
-* [THREAD\_INFORMATION\_CLASS](threading/thread\_information\_class.md)
 * [STARTUPINFOA](threading/startupinfoa.md)
 
 ## SECURITY
