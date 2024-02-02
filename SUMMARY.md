@@ -135,6 +135,7 @@
 * [LdrUnloadDll](ntdll/ldrunloaddll.md)
 * [NtCreateThreadEx](ntdll/ntcreatethreadex.md)
 * [NtOpenProcessToken](ntdll/ntopenprocesstoken.md)
+* [NtOpenThreadToken](ntdll/ntopenthreadtoken.md)
 
 ## AMSI
 
