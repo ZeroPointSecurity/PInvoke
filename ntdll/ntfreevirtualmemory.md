@@ -3,7 +3,7 @@
 ```csharp
 [DllImport("ntdll.dll", ExactSpelling = true)]
 [DefaultDllImportSearchPaths(DllImportSearchPath.System32)]
-public static extern unsafe NTSTATUS NtAllocateVirtualMemory(
+public static extern unsafe NTSTATUS NtFreeVirtualMemory(
     HANDLE ProcessHandle,
     void* BaseAddress,
     uint* RegionSize,
