@@ -170,6 +170,7 @@
 * [USER\_THREAD\_START\_ROUTINE](foundation/user\_thread\_start\_routine.md)
 * [PS\_ATTRIBUTE\_LIST](foundation/ps\_attribute\_list.md)
 * [THREAD\_INFORMATION\_CLASS](foundation/thread\_information\_class.md)
+* [BOOLEAN](foundation/boolean.md)
 
 ## THREADING
 
@@ -208,6 +209,7 @@
 * [TOKEN\_USER](security/token\_user.md)
 * [TOKEN\_STATISTICS](security/token\_statistics.md)
 * [QUOTA\_LIMITS](security/quota\_limits.md)
+* [SECURITY\_QUALITY\_OF\_SERVICE](security/security\_quality\_of\_service.md)
 
 ## SERVICES
 
