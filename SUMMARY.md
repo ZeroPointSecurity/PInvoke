@@ -139,6 +139,7 @@
 * [NtDuplicateToken](ntdll/ntduplicatetoken.md)
 * [NtSetInformationThread](ntdll/ntsetinformationthread.md)
 * [NtAdjustPrivilegesToken](ntdll/ntadjustprivilegestoken.md)
+* [NtQueryInformationProcess](ntdll/ntqueryinformationprocess.md)
 
 ## AMSI
 
@@ -188,6 +189,7 @@
 * [STARTUPINFO\_FLAGS](threading/startupinfow\_flags.md)
 * [THREAD\_CREATION\_FLAGS](threading/thread\_creation\_flags.md)
 * [STARTUPINFOA](threading/startupinfoa.md)
+* [PROCESS\_BASIC\_INFORMATION](threading/process\_basic\_information.md)
 
 ## SECURITY
 
@@ -254,6 +256,7 @@
 ## WDK
 
 * [SECTION\_INHERIT](wdk/section\_inherit.md)
+* [PROCESSINFOCLASS](wdk/processinfoclass.md)
 
 ## CONSOLE
 
