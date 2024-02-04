@@ -10,3 +10,5 @@ public static extern unsafe NTSTATUS NtQueryInformationProcess(
     uint processInformationLength,
     uint* returnLength);
 ```
+
+[processinfoclass.md](../wdk/processinfoclass.md "mention")
