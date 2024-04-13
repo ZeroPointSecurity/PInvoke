@@ -42,6 +42,7 @@
 * [OpenServiceA](advapi32/openservicea.md)
 * [StartServiceA](advapi32/startservicea.md)
 * [LsaEnumerateTrustedDomains](advapi32/lsaenumeratetrusteddomains.md)
+* [LsaClose](advapi32/lsaclose.md)
 
 ## KERNEL32
 
