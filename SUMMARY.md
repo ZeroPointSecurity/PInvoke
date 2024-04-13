@@ -43,6 +43,7 @@
 * [StartServiceA](advapi32/startservicea.md)
 * [LsaEnumerateTrustedDomains](advapi32/lsaenumeratetrusteddomains.md)
 * [LsaClose](advapi32/lsaclose.md)
+* [LsaQueryDomainInformationPolicy](advapi32/lsaquerydomaininformationpolicy.md)
 
 ## KERNEL32
 
@@ -275,6 +276,7 @@
 * [SecBufferDesc](authentication/secbufferdesc.md)
 * [SecBuffer](authentication/secbuffer.md)
 * [LSA\_HANDLE](authentication/lsa\_handle.md)
+* [POLICY\_DOMAIN\_INFORMATION\_CLASS](authentication/policy\_domain\_information\_class.md)
 
 ## DEBUG
 
