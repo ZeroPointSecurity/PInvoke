@@ -41,6 +41,7 @@
 * [OpenSCManagerA](advapi32/openscmanagera.md)
 * [OpenServiceA](advapi32/openservicea.md)
 * [StartServiceA](advapi32/startservicea.md)
+* [LsaEnumerateTrustedDomains](advapi32/lsaenumeratetrusteddomains.md)
 
 ## KERNEL32
 
@@ -272,6 +273,7 @@
 * [ISC\_REQ\_FLAGS](authentication/isc\_req\_flags.md)
 * [SecBufferDesc](authentication/secbufferdesc.md)
 * [SecBuffer](authentication/secbuffer.md)
+* [LSA\_HANDLE](authentication/lsa\_handle.md)
 
 ## DEBUG
 
