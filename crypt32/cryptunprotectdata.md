@@ -16,3 +16,12 @@ public static extern unsafe BOOL CryptUnprotectData(
 [crypt\_integer\_blob.md](../cryptography/crypt\_integer\_blob.md "mention")
 
 [cryptprotect\_promptstruct.md](../cryptography/cryptprotect\_promptstruct.md "mention")
+
+
+
+Valid `dwFlags`:
+
+```csharp
+public const uint CRYPTPROTECT_UI_FORBIDDEN = 1U;
+public const uint CRYPTPROTECT_VERIFY_PROTECTION = 64U;
+```
