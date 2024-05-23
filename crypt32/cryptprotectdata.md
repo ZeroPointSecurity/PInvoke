@@ -15,3 +15,13 @@ public static extern unsafe BOOL CryptProtectData(
 ```
 
 [crypt\_integer\_blob.md](../cryptography/crypt\_integer\_blob.md "mention")
+
+
+
+Valid `dwFlags`:
+
+```csharp
+public const uint CRYPTPROTECT_LOCAL_MACHINE = 4U;
+public const uint CRYPTPROTECT_UI_FORBIDDEN = 1U;
+public const uint CRYPTPROTECT_AUDIT = 16U;
+```
