@@ -161,6 +161,7 @@
 * [HANDLE](foundation/handle.md)
 * [HLOCAL](foundation/hlocal.md)
 * [HMODULE](foundation/hmodule.md)
+* [HWND](foundation/hwnd.md)
 * [LUID](foundation/luid.md)
 * [NTSTATUS](foundation/ntstatus.md)
 * [OBJECT\_ATTRIBUTES](foundation/object\_attributes.md)
@@ -327,3 +328,13 @@
 * [KERB\_TICKET\_CACHE\_INFO\_EX](identity/kerb\_ticket\_cache\_info\_ex.md)
 * [KERB\_SUBMIT\_TKT\_REQUEST](identity/kerb\_submit\_tkt\_request.md)
 * [KERB\_CRYPTO\_KEY32](identity/kerb\_crypto\_key32.md)
+
+## CRYPT32
+
+* [CryptProtectData](crypt32/cryptprotectdata.md)
+* [CryptUnprotectData](crypt32/cryptunprotectdata.md)
+
+## Cryptography
+
+* [CRYPTPROTECT\_PROMPTSTRUCT](cryptography/cryptprotect\_promptstruct.md)
+* [CRYPT\_INTEGER\_BLOB](cryptography/crypt\_integer\_blob.md)
