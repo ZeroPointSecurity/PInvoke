@@ -165,6 +165,7 @@
 * [HINSTANCE](foundation/hinstance.md)
 * [HRESULT](foundation/hresult.md)
 * [HWND](foundation/hwnd.md)
+* [FARPROC](foundation/farproc.md)
 * [LUID](foundation/luid.md)
 * [NTSTATUS](foundation/ntstatus.md)
 * [OBJECT\_ATTRIBUTES](foundation/object\_attributes.md)
