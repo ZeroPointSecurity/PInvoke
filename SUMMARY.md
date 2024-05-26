@@ -71,6 +71,7 @@
 * [GetCurrentThread](kernel32/getcurrentthread.md)
 * [GetCurrentThreadId](kernel32/getcurrentthreadid.md)
 * [GetModuleHandleW](kernel32/getmodulehandle.md)
+* [GetProcAddress](kernel32/getprocaddress.md)
 * [GetProcessHeap](kernel32/getprocessheap.md)
 * [GetStdHandle](kernel32/getstdhandle.md)
 * [GetThreadInformation](kernel32/getthreadinformation.md)
