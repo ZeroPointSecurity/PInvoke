@@ -1,4 +1,4 @@
-## AmsiScanBuffer
+# AmsiScanBuffer
 
 ```csharp
 [DllImport("Amsi.dll", ExactSpelling = true)]
@@ -11,3 +11,9 @@ public static extern unsafe HRESULT AmsiScanBuffer(
     HAMSISESSION amsiSession,
     AMSI_RESULT* result);
 ```
+
+[hamsicontext.md](../antimalware/hamsicontext.md "mention")
+
+[hamsisession.md](../antimalware/hamsisession.md "mention")
+
+[amsiresult.md](../antimalware/amsiresult.md "mention")

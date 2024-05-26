@@ -1,4 +1,4 @@
-## AmsiCloseSession
+# AmsiCloseSession
 
 ```csharp
 [DllImport("Amsi.dll", ExactSpelling = true)]
@@ -7,3 +7,7 @@ public static extern void AmsiCloseSession(
     HAMSICONTEXT amsiContext,
     HAMSISESSION amsiSession);
 ```
+
+[hamsicontext.md](../antimalware/hamsicontext.md "mention")
+
+[hamsisession.md](../antimalware/hamsisession.md "mention")

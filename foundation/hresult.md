@@ -1,4 +1,4 @@
-## HRESULT
+# HRESULT
 
 ```csharp
 [DebuggerDisplay("{Value}")]

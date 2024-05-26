@@ -7,3 +7,5 @@ public static extern unsafe HRESULT AmsiInitialize(
     PCWSTR appName,
     HAMSICONTEXT* amsiContext);
 ```
+
+[hamsicontext.md](../antimalware/hamsicontext.md "mention")
