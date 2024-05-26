@@ -161,6 +161,7 @@
 * [HANDLE](foundation/handle.md)
 * [HLOCAL](foundation/hlocal.md)
 * [HMODULE](foundation/hmodule.md)
+* [HINSTANCE](foundation/hinstance.md)
 * [HRESULT](foundation/hresult.md)
 * [HWND](foundation/hwnd.md)
 * [LUID](foundation/luid.md)
