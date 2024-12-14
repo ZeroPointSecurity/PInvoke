@@ -285,16 +285,21 @@
 
 ## DEBUG
 
+* [RtlLookupFunctionEntry](debug/rtllookupfunctionentry.md)
+* [IMAGE\_RUNTIME\_FUNCTION\_ENTRY](debug/image\_runtime\_function\_entry.md)
 * [IMAGE\_DATA\_DIRECTORY](debug/image\_data\_directory.md)
-* [IMAGE\_OPTIONAL\_HEADER32](debug/image\_optional\_header32.md)
-* [IMAGE\_OPTIONAL\_HEADER\_MAGIC](debug/image\_optional\_header\_magic.md)
-* [IMAGE\_SUBSYSTEM](debug/image\_subsystem.md)
 * [IMAGE\_DLL\_CHARACTERISTICS](debug/image\_dll\_characteristics.md)
-* [IMAGE\_OPTIONAL\_HEADER64](debug/image\_optional\_header64.md)
 * [IMAGE\_FILE\_HEADER](debug/image\_file\_header.md)
 * [IMAGE\_FILE\_CHARACTERISTICS](debug/image\_file\_characteristics.md)
+* [IMAGE\_OPTIONAL\_HEADER32](debug/image\_optional\_header32.md)
+* [IMAGE\_OPTIONAL\_HEADER64](debug/image\_optional\_header64.md)
+* [IMAGE\_OPTIONAL\_HEADER\_MAGIC](debug/image\_optional\_header\_magic.md)
+* [IMAGE\_RUNTIME\_FUNCTION\_ENTRY](debug/image\_runtime\_function\_entry.md)
 * [IMAGE\_SECTION\_HEADER](debug/image\_section\_header.md)
 * [IMAGE\_SECTION\_CHARACTERISTICS](debug/image\_section\_characteristics.md)
+* [IMAGE\_SUBSYSTEM](debug/image\_subsystem.md)
+* [UNWIND\_HISTORY\_TABLE](debug/unwind_history_table.md)
+* [UNWIND\_HISTORY\_TABLE\_ENTRY](debug/unwind_history_table_entry.md)
 
 ## SYSTEM INFORMATION
 
