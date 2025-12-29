@@ -75,6 +75,7 @@
 * [GetProcAddress](kernel32/getprocaddress.md)
 * [GetProcessHeap](kernel32/getprocessheap.md)
 * [GetStdHandle](kernel32/getstdhandle.md)
+* [GetThreadContext](kernel32/getthreadcontext.md)
 * [GetThreadInformation](kernel32/getthreadinformation.md)
 * [HeapAlloc](kernel32/heapalloc.md)
 * [HeapFree](kernel32/heapfree.md)
@@ -89,6 +90,7 @@
 * [QueueUserAPC](kernel32/queueuserapc.md)
 * [ReadProcessMemory](kernel32/readprocessmemory.md)
 * [ResumeThread](kernel32/resumethread.md)
+* [SetThreadContext](kernel32/setthreadcontext.md)
 * [SuspendThread](kernel32/suspendthread.md)
 * [SwitchToFiber](kernel32/switchtofiber.md)
 * [UpdateProcThreadAttribute](kernel32/updateprocthreadattribute.md)
@@ -287,6 +289,8 @@
 
 ## DEBUG
 
+* [CONTEXT](debug/context.md)
+* [CONTEXT_FLAGS](debug/context_flags.md)
 * [RtlLookupFunctionEntry](debug/rtllookupfunctionentry.md)
 * [IMAGE\_RUNTIME\_FUNCTION\_ENTRY](debug/image_runtime_function_entry.md)
 * [IMAGE\_DATA\_DIRECTORY](debug/image_data_directory.md)
